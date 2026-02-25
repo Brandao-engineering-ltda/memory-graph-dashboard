@@ -4,6 +4,8 @@ An intelligent memory visualization system that maps knowledge entities and thei
 
 ![Memory Graph Dashboard](./public/dashboard-preview.png)
 
+![Uploading Screenshot 2026-02-24 at 15.21.47.png…]()
+
 ## 🚀 Features
 
 ### 📊 Interactive Knowledge Graph
