@@ -70,7 +70,10 @@ export function MetricCards() {
         const data = await response.json()
         setStats(data)
       } catch (error) {
-        console.error('Failed to fetch memory stats:', error)
+        // Silent error handling for production
+        if (process.env.NODE_ENV === 'development') {
+          console.error('Failed to fetch memory stats:', error)
+        }
         // Fallback to default values
         setStats({
           entities: 22,
