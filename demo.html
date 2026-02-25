@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Memory Graph Dashboard - Demo</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f8fafc;
+            color: #334155;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .header h1 {
+            font-size: 2.5rem;
+            margin: 0;
+            color: #1e293b;
+        }
+        
+        .header p {
+            font-size: 1.1rem;
+            color: #64748b;
+            margin: 10px 0;
+        }
+        
+        .dashboard {
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            gap: 20px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        .panel {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .stat-item {
+            padding: 15px;
+            background: #f1f5f9;
+            border-radius: 8px;
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #3b82f6;
+        }
+        
+        .stat-label {
+            font-size: 0.875rem;
+            color: #64748b;
+        }
+        
+        #graph {
+            width: 100%;
+            height: 500px;
+            border: 2px solid #e2e8f0;
+            border-radius: 8px;
+            background: white;
+        }
+        
+        .legend {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 15px;
+            font-size: 0.875rem;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        
+        .legend-color {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+        }
+        
+        .controls {
+            margin-bottom: 20px;
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+        
+        .btn {
+            padding: 8px 16px;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            background: white;
+            cursor: pointer;
+            font-size: 0.875rem;
+            transition: all 0.2s;
+        }
+        
+        .btn:hover {
+            background: #f3f4f6;
+            border-color: #9ca3af;
+        }
+        
+        .projects-list {
+            margin-top: 20px;
+        }
+        
+        .project-item {
+            padding: 10px;
+            margin: 5px 0;
+            background: #f8fafc;
+            border-radius: 6px;
+            border-left: 4px solid #3b82f6;
+            font-size: 0.875rem;
+        }
+        
+        .tooltip {
+            position: absolute;
+            background: rgba(0,0,0,0.8);
+            color: white;
+            padding: 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            pointer-events: none;
+            z-index: 1000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🧠 Memory Graph Dashboard</h1>
+        <p>Interactive visualization of Brandao's knowledge graph memory architecture</p>
+        <p><em>This is a demo version - full Next.js dashboard available in source code</em></p>
+    </div>
+
+    <div class="dashboard">
+        <!-- Left Panel: Stats & Info -->
+        <div class="panel">
+            <h2>Memory System Status</h2>
+            
+            <div class="stats">
+                <div class="stat-item">
+                    <div class="stat-number">22</div>
+                    <div class="stat-label">Entities</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">161</div>
+                    <div class="stat-label">Relations</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">✅</div>
+                    <div class="stat-label">Health</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">5</div>
+                    <div class="stat-label">Sessions</div>
+                </div>
+            </div>
+
+            <h3>Top Projects</h3>
+            <div class="projects-list">
+                <div class="project-item">Elite Pulse - Garmin workout sync app</div>
+                <div class="project-item">X Growth - Twitter automation & analytics</div>
+                <div class="project-item">OpenClaw - AI agent platform</div>
+                <div class="project-item">Component Library - Storybook + CI/CD</div>
+                <div class="project-item">Product Builder - Full-stack development skill</div>
+            </div>
+
+            <h3>Key Technologies</h3>
+            <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px;">
+                <span style="background: #dcfce7; color: #166534; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem;">Next.js</span>
+                <span style="background: #dcfce7; color: #166534; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem;">TypeScript</span>
+                <span style="background: #dcfce7; color: #166534; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem;">Go</span>
+                <span style="background: #dcfce7; color: #166534; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem;">GCP</span>
+                <span style="background: #dcfce7; color: #166534; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem;">React</span>
+                <span style="background: #dcfce7; color: #166534; padding: 4px 8px; border-radius: 4px; font-size: 0.75rem;">Tailwind</span>
+            </div>
+        </div>
+
+        <!-- Right Panel: Graph Visualization -->
+        <div class="panel">
+            <div class="controls">
+                <button class="btn" onclick="resetGraph()">🔄 Reset View</button>
+                <button class="btn" onclick="toggleProjects()">🔵 Projects</button>
+                <button class="btn" onclick="toggleTech()">🟢 Tech</button>
+                <button class="btn" onclick="exportGraph()">📄 Export</button>
+            </div>
+            
+            <svg id="graph"></svg>
+            
+            <div class="legend">
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #4F46E5;"></div>
+                    <span>Projects</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #10B981;"></div>
+                    <span>Technologies</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #8B5CF6;"></div>
+                    <span>Tools</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #EF4444;"></div>
+                    <span>Insights</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #F59E0B;"></div>
+                    <span>Decisions</span>
+                </div>
+                <div class="legend-item">
+                    <div class="legend-color" style="background: #06B6D4;"></div>
+                    <span>People</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Knowledge Graph Data
+        const graphData = {
+            nodes: [
+                // Projects
+                { id: 'elite-pulse', name: 'Elite Pulse', type: 'PROJECT', color: '#4F46E5', context: 'Garmin workout sync app' },
+                { id: 'x-growth', name: 'X Growth', type: 'PROJECT', color: '#4F46E5', context: 'Twitter growth automation' },
+                { id: 'openclaw', name: 'OpenClaw', type: 'PROJECT', color: '#4F46E5', context: 'AI agent platform' },
+                { id: 'component-lib', name: 'Component Library', type: 'PROJECT', color: '#4F46E5', context: 'Storybook + Chromatic' },
+                { id: 'product-builder', name: 'Product Builder', type: 'PROJECT', color: '#4F46E5', context: 'Full-stack development skill' },
+                
+                // Technologies
+                { id: 'nextjs', name: 'Next.js', type: 'TECH', color: '#10B981', context: 'React framework' },
+                { id: 'typescript', name: 'TypeScript', type: 'TECH', color: '#10B981', context: 'Type-safe JavaScript' },
+                { id: 'go', name: 'Go', type: 'TECH', color: '#10B981', context: 'Backend language' },
+                { id: 'gcp', name: 'GCP', type: 'TECH', color: '#10B981', context: 'Cloud platform' },
+                { id: 'tailwind', name: 'Tailwind', type: 'TECH', color: '#10B981', context: 'CSS framework' },
+                { id: 'firebase', name: 'Firebase', type: 'TECH', color: '#10B981', context: 'Auth & backend' },
+                
+                // Tools
+                { id: 'cursor', name: 'Cursor', type: 'TOOL', color: '#8B5CF6', context: 'AI-powered IDE' },
+                { id: 'telegram', name: 'Telegram', type: 'TOOL', color: '#8B5CF6', context: 'Communication' },
+                
+                // Insights
+                { id: 'memory-gaps', name: 'Memory Gaps', type: 'INSIGHT', color: '#EF4444', context: 'Solved with architecture' },
+                { id: 'openai-patterns', name: 'OpenAI Patterns', type: 'INSIGHT', color: '#EF4444', context: 'Skill development' },
+                
+                // Decisions
+                { id: 'memory-arch', name: 'Memory Architecture', type: 'DECISION', color: '#F59E0B', context: '3-phase system' },
+                
+                // Person
+                { id: 'brandao', name: 'Brandao', type: 'PERSON', color: '#06B6D4', context: 'Lead engineer' },
+            ],
+            links: [
+                // Project → Tech relationships
+                { source: 'elite-pulse', target: 'nextjs', type: 'USES' },
+                { source: 'elite-pulse', target: 'typescript', type: 'USES' },
+                { source: 'elite-pulse', target: 'go', type: 'USES' },
+                { source: 'elite-pulse', target: 'firebase', type: 'USES' },
+                { source: 'x-growth', target: 'nextjs', type: 'USES' },
+                { source: 'openclaw', target: 'go', type: 'USES' },
+                { source: 'openclaw', target: 'gcp', type: 'USES' },
+                { source: 'product-builder', target: 'nextjs', type: 'USES' },
+                { source: 'product-builder', target: 'tailwind', type: 'USES' },
+                
+                // Tech combinations
+                { source: 'nextjs', target: 'typescript', type: 'COMBINED_WITH' },
+                { source: 'nextjs', target: 'tailwind', type: 'COMBINED_WITH' },
+                
+                // Tool relationships
+                { source: 'cursor', target: 'elite-pulse', type: 'TOOL_FOR' },
+                { source: 'cursor', target: 'openclaw', type: 'TOOL_FOR' },
+                { source: 'telegram', target: 'openclaw', type: 'TOOL_FOR' },
+                
+                // Insights → Projects
+                { source: 'memory-gaps', target: 'memory-arch', type: 'LEADS_TO' },
+                { source: 'memory-arch', target: 'openclaw', type: 'AFFECTS' },
+                { source: 'openai-patterns', target: 'product-builder', type: 'INFLUENCES' },
+                
+                // Person relationships
+                { source: 'brandao', target: 'elite-pulse', type: 'OWNS' },
+                { source: 'brandao', target: 'x-growth', type: 'OWNS' },
+                { source: 'brandao', target: 'openclaw', type: 'OWNS' },
+            ]
+        };
+
+        // D3 Graph Visualization
+        const svg = d3.select("#graph");
+        const width = 800;
+        const height = 500;
+        
+        svg.attr("width", width).attr("height", height);
+
+        // Create simulation
+        const simulation = d3.forceSimulation(graphData.nodes)
+            .force("link", d3.forceLink(graphData.links).id(d => d.id).distance(80))
+            .force("charge", d3.forceManyBody().strength(-200))
+            .force("center", d3.forceCenter(width / 2, height / 2))
+            .force("collision", d3.forceCollide().radius(20));
+
+        // Create links
+        const link = svg.append("g")
+            .selectAll("line")
+            .data(graphData.links)
+            .join("line")
+            .attr("stroke", "#999")
+            .attr("stroke-opacity", 0.6)
+            .attr("stroke-width", 2);
+
+        // Create nodes
+        const node = svg.append("g")
+            .selectAll("circle")
+            .data(graphData.nodes)
+            .join("circle")
+            .attr("r", d => d.type === 'PROJECT' ? 12 : d.type === 'PERSON' ? 10 : 8)
+            .attr("fill", d => d.color)
+            .attr("stroke", "#fff")
+            .attr("stroke-width", 2)
+            .style("cursor", "pointer")
+            .on("mouseover", function(event, d) {
+                // Create tooltip
+                const tooltip = d3.select("body").append("div")
+                    .attr("class", "tooltip")
+                    .style("opacity", 0);
+
+                tooltip.transition().duration(200).style("opacity", .9);
+                tooltip.html(`<strong>${d.name}</strong><br/>Type: ${d.type}<br/>${d.context}`)
+                    .style("left", (event.pageX + 10) + "px")
+                    .style("top", (event.pageY - 28) + "px");
+            })
+            .on("mouseout", function() {
+                d3.selectAll(".tooltip").remove();
+            })
+            .call(d3.drag()
+                .on("start", dragstarted)
+                .on("drag", dragged)
+                .on("end", dragended));
+
+        // Add labels
+        const label = svg.append("g")
+            .selectAll("text")
+            .data(graphData.nodes)
+            .join("text")
+            .text(d => d.name)
+            .attr("font-size", "11px")
+            .attr("dx", 15)
+            .attr("dy", 4)
+            .attr("fill", "#333")
+            .style("pointer-events", "none");
+
+        // Update positions on simulation tick
+        simulation.on("tick", () => {
+            link
+                .attr("x1", d => d.source.x)
+                .attr("y1", d => d.source.y)
+                .attr("x2", d => d.target.x)
+                .attr("y2", d => d.target.y);
+
+            node
+                .attr("cx", d => d.x)
+                .attr("cy", d => d.y);
+
+            label
+                .attr("x", d => d.x)
+                .attr("y", d => d.y);
+        });
+
+        // Drag functions
+        function dragstarted(event) {
+            if (!event.active) simulation.alphaTarget(0.3).restart();
+            event.subject.fx = event.subject.x;
+            event.subject.fy = event.subject.y;
+        }
+
+        function dragged(event) {
+            event.subject.fx = event.x;
+            event.subject.fy = event.y;
+        }
+
+        function dragended(event) {
+            if (!event.active) simulation.alphaTarget(0);
+            event.subject.fx = null;
+            event.subject.fy = null;
+        }
+
+        // Control functions
+        function resetGraph() {
+            simulation.alpha(1).restart();
+        }
+
+        function toggleProjects() {
+            node.style("opacity", d => d.type === 'PROJECT' ? 1 : 0.3);
+            link.style("opacity", 0.3);
+        }
+
+        function toggleTech() {
+            node.style("opacity", d => d.type === 'TECH' ? 1 : 0.3);
+            link.style("opacity", 0.3);
+        }
+
+        function exportGraph() {
+            const data = JSON.stringify(graphData, null, 2);
+            const blob = new Blob([data], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'knowledge-graph.json';
+            a.click();
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,294 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 212.7 26.8% 83.9%;
+    --radius: 0.75rem;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 212.7 26.8% 83.9%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Custom Scrollbars */
+.overflow-y-auto::-webkit-scrollbar {
+  width: 6px;
+}
+
+.overflow-y-auto::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 3px;
+}
+
+.overflow-y-auto::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 3px;
+}
+
+.overflow-y-auto::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+/* Graph visualization styles */
+.graph-container {
+  @apply w-full h-full bg-transparent border-0 rounded-lg overflow-hidden;
+}
+
+.graph-node {
+  cursor: pointer;
+  transition: all 0.2s ease;
+  filter: drop-shadow(0 0 4px rgba(0, 0, 0, 0.5));
+}
+
+.graph-node:hover {
+  stroke-width: 3px;
+  stroke: rgba(255, 255, 255, 0.8);
+  filter: drop-shadow(0 0 8px rgba(255, 255, 255, 0.4));
+}
+
+.graph-link {
+  stroke: rgba(148, 163, 184, 0.6);
+  stroke-opacity: 0.7;
+  transition: all 0.2s ease;
+}
+
+.graph-link:hover {
+  stroke: rgba(255, 255, 255, 0.8);
+  stroke-opacity: 1;
+}
+
+.graph-text {
+  font-size: 11px;
+  fill: rgba(248, 250, 252, 0.9);
+  pointer-events: none;
+  user-select: none;
+  text-shadow: 0 0 4px rgba(0, 0, 0, 0.8);
+}
+
+/* Entity type colors with glow effects */
+.node-PROJECT { 
+  fill: #4F46E5;
+  filter: drop-shadow(0 0 6px rgba(79, 70, 229, 0.4));
+}
+.node-TECH { 
+  fill: #10B981;
+  filter: drop-shadow(0 0 6px rgba(16, 185, 129, 0.4));
+}
+.node-DECISION { 
+  fill: #F59E0B;
+  filter: drop-shadow(0 0 6px rgba(245, 158, 11, 0.4));
+}
+.node-INSIGHT { 
+  fill: #EF4444;
+  filter: drop-shadow(0 0 6px rgba(239, 68, 68, 0.4));
+}
+.node-TOOL { 
+  fill: #8B5CF6;
+  filter: drop-shadow(0 0 6px rgba(139, 92, 246, 0.4));
+}
+.node-PERSON { 
+  fill: #06B6D4;
+  filter: drop-shadow(0 0 6px rgba(6, 182, 212, 0.4));
+}
+
+/* Animations and transitions */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: .5;
+  }
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-fadeInUp {
+  animation: fadeInUp 0.5s ease-out;
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* Glass morphism effects */
+.glass {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.glass-stronger {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Gradient text utilities */
+.gradient-text {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-text-blue {
+  background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-text-purple {
+  background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Loading states */
+.skeleton {
+  background: linear-gradient(90deg, 
+    rgba(255, 255, 255, 0.1) 0%, 
+    rgba(255, 255, 255, 0.2) 50%, 
+    rgba(255, 255, 255, 0.1) 100%
+  );
+  background-size: 200% 100%;
+  animation: loading 1.5s infinite;
+}
+
+@keyframes loading {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+/* Search highlights */
+.search-highlight {
+  background: rgba(251, 191, 36, 0.3);
+  border-radius: 2px;
+  padding: 1px 2px;
+}
+
+/* Network visualization enhancements */
+.graph-container svg {
+  background: transparent;
+}
+
+/* Tooltip styles */
+.graph-tooltip {
+  position: absolute;
+  z-index: 1000;
+  pointer-events: none;
+  background: rgba(0, 0, 0, 0.9);
+  backdrop-filter: blur(8px);
+  color: white;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-size: 12px;
+  max-width: 200px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+/* Interactive elements */
+.interactive:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+}
+
+/* Status indicators */
+.status-dot {
+  position: relative;
+}
+
+.status-dot::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background: inherit;
+  animation: ping 2s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
+
+@keyframes ping {
+  75%, 100% {
+    transform: scale(2);
+    opacity: 0;
+  }
+}
