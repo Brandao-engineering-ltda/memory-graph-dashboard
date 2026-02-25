@@ -46,7 +46,11 @@ export function QuickSearch() {
       
       setResults(mockResults)
     } catch (error) {
-      console.error('Search failed:', error)
+      // Silent error handling for production
+      if (process.env.NODE_ENV === 'development') {
+        console.error('Search failed:', error)
+      }
+      setResults([])
     } finally {
       setLoading(false)
     }
