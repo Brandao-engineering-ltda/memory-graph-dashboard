@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useRef, useState, useLayoutEffect, useCallback } from 'react'
+import { useEffect, useRef, useState, useLayoutEffect } from 'react'
 import * as d3 from 'd3'
 import { GraphNode, GraphEdge, GraphData } from '@/lib/graph-types'
 import { sampleGraphData } from '@/lib/sample-data'
@@ -38,7 +38,7 @@ export function GraphVisualization({ data = sampleGraphData, onNodeSelect }: Gra
       }))
       .filter((edge): edge is GraphEdge => edge.source && edge.target) as GraphEdge[]
 
-    console.log(`Graph loaded: ${nodesRef.current.length} nodes, ${edgesRef.current.length} edges`)
+    // Graph data loaded successfully
   }, [data])
 
   // Responsive sizing

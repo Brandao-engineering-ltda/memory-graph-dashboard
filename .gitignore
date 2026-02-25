@@ -37,7 +37,8 @@ Thumbs.db
 # Memory data (exclude user-specific data)
 memory/
 data/
-*.json
+memory-data.json
+graph-data.json
 *.csv
 
 # Logs
