@@ -58,7 +58,7 @@ export async function GET() {
           healthy: true
         });
       } catch (graphError) {
-        throw new Error(`Cannot access memory data: ${scriptError.message} | ${graphError.message}`);
+        throw new Error(`Cannot access memory data: ${(scriptError as Error).message} | ${(graphError as Error).message}`);
       }
     }
     
