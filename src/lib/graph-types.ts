@@ -1,4 +1,6 @@
-export interface GraphNode {
+import { SimulationNodeDatum } from 'd3-force';
+
+export interface GraphNode extends SimulationNodeDatum {
   id: string
   name: string
   type: string

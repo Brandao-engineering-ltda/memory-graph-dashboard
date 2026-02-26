@@ -92,3 +92,4 @@ Dockerfile.local
 .local
 dev-memory/
 test-data/
+.vercel
