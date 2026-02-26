@@ -1,0 +1,2460 @@
+{
+  "nodes": [
+    [
+      "PROJECT:elite pulse",
+      {
+        "id": "PROJECT:elite pulse",
+        "name": "Elite Pulse",
+        "type": "PROJECT",
+        "context": "js force simulation creates dynamic, draggable node network with zoom/pan controls\n- Entity types color-coded: Projects (blue), Tech (green), Tools (purple), Insights (red), Decisions (yellow), People (cyan)\n- Real-time graph updates when memory files change through API integration\n- Mobile-responsi",
+        "source": "MEMORY.md, MEMORY.md, memory/sessions/session-2026-02-24-171659.md, MEMORY.md, MEMORY.md, memory/sessions/session-2026-02-24-171659.md, memory/sessions/session-2026-02-24-172715.md",
+        "color": "#4F46E5"
+      }
+    ],
+    [
+      "PROJECT:x growth",
+      {
+        "id": "PROJECT:x growth",
+        "name": "X Growth",
+        "type": "PROJECT",
+        "context": "js + Go + Firebase, X Growth → Twitter patterns\n\n## Action Items  \n- Install npm dependencies and start development server (npm run dev)\n- Connect dashboard to live knowledge graph data from memory/graph/\n- Test interactive features: node dragging, search, filtering, tooltips\n- Deploy dashboard to V",
+        "source": "MEMORY.md, memory/2026-02-13.md, memory/2026-02-13.md, memory/2026-02-13.md, memory/2026-02-24.md, memory/sessions/session-2026-02-24-171659.md, MEMORY.md, memory/2026-02-13.md, memory/2026-02-13.md, memory/2026-02-13.md, memory/2026-02-24.md, memory/sessions/session-2026-02-24-171659.md, memory/sessions/session-2026-02-24-172715.md",
+        "color": "#4F46E5"
+      }
+    ],
+    [
+      "PROJECT:openclaw",
+      {
+        "id": "PROJECT:openclaw",
+        "name": "OpenClaw",
+        "type": "PROJECT",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps rela",
+        "source": "MEMORY.md, MEMORY.md, MEMORY.md, MEMORY.md, MEMORY.md, memory/2026-02-15.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/sessions/session-2026-02-24-165648.md, memory/sessions/session-2026-02-24-165648.md, memory/sessions/session-2026-02-24-165648.md, memory/sessions/session-2026-02-24-171659.md, MEMORY.md, MEMORY.md, MEMORY.md, MEMORY.md, MEMORY.md, MEMORY.md, MEMORY.md, MEMORY.md, MEMORY.md, memory/2026-02-15.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/sessions/session-2026-02-24-165648.md, memory/sessions/session-2026-02-24-165648.md, memory/sessions/session-2026-02-24-165648.md, memory/sessions/session-2026-02-24-171659.md",
+        "color": "#4F46E5"
+      }
+    ],
+    [
+      "PROJECT:component library",
+      {
+        "id": "PROJECT:component library",
+        "name": "Component Library",
+        "type": "PROJECT",
+        "context": "js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects ",
+        "source": "MEMORY.md, MEMORY.md",
+        "color": "#4F46E5"
+      }
+    ],
+    [
+      "TECH:next.js",
+      {
+        "id": "TECH:next.js",
+        "name": "Next.js",
+        "type": "TECH",
+        "context": "# session-2026-02-24-174849\n\n## Summary\nMemory Dashboard V2 Complete: Stunning modern UI with navigation, analytics, and beautiful visualizations\n\n## Context\n- Date: 2026-02-24\n- Time: 174849\n- Model:",
+        "source": "MEMORY.md, MEMORY.md, memory/2026-02-24.md, memory/2026-02-24.md, MEMORY.md, MEMORY.md, MEMORY.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/sessions/session-2026-02-24-172715.md, memory/sessions/session-2026-02-24-172715.md, memory/sessions/session-2026-02-24-172715.md, memory/sessions/session-2026-02-24-174849.md",
+        "color": "#10B981"
+      }
+    ],
+    [
+      "TECH:typescript",
+      {
+        "id": "TECH:typescript",
+        "name": "TypeScript",
+        "type": "TECH",
+        "context": "js + TypeScript + D3",
+        "source": "MEMORY.md, memory/2026-02-24.md, memory/2026-02-24.md, MEMORY.md, MEMORY.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/sessions/session-2026-02-24-172715.md, memory/sessions/session-2026-02-24-172715.md",
+        "color": "#10B981"
+      }
+    ],
+    [
+      "TECH:go",
+      {
+        "id": "TECH:go",
+        "name": "Go",
+        "type": "TECH",
+        "context": "js + Go + Firebase, X Growth → Twitter patterns\n\n## Action Items  \n- Install npm dependencies and start development server (npm run dev)\n- Connect dashboard to live knowledge graph data from memory/graph/\n- Test interactive features: node dragging, search, filtering, tooltips\n- Deploy dashboard to V",
+        "source": "MEMORY.md, MEMORY.md, memory/sessions/session-2026-02-24-171659.md, MEMORY.md, MEMORY.md, memory/sessions/session-2026-02-24-171659.md, memory/sessions/session-2026-02-24-172715.md",
+        "color": "#10B981"
+      }
+    ],
+    [
+      "TECH:gcp",
+      {
+        "id": "TECH:gcp",
+        "name": "GCP",
+        "type": "TECH",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps rela",
+        "source": "MEMORY.md, memory/2026-02-24.md, memory/sessions/session-2026-02-24-171659.md, MEMORY.md, MEMORY.md, memory/2026-02-24.md, memory/sessions/session-2026-02-24-171659.md",
+        "color": "#10B981"
+      }
+    ],
+    [
+      "TECH:react",
+      {
+        "id": "TECH:react",
+        "name": "React",
+        "type": "TECH",
+        "context": "json\n\n## Technical Decisions\n- Primary stack: React, TypeScript, Go, GCP\n- Frontend defaults: Next",
+        "source": "MEMORY.md, MEMORY.md",
+        "color": "#10B981"
+      }
+    ],
+    [
+      "TECH:tailwind",
+      {
+        "id": "TECH:tailwind",
+        "name": "Tailwind",
+        "type": "TECH",
+        "context": "# session-2026-02-24-174849\n\n## Summary\nMemory Dashboard V2 Complete: Stunning modern UI with navigation, analytics, and beautiful visualizations\n\n## Context\n- Date: 2026-02-24\n- Time: 174849\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built stunning modern Memory Gra",
+        "source": "MEMORY.md, memory/2026-02-24.md, memory/2026-02-24.md, MEMORY.md, MEMORY.md, memory/2026-02-24.md, memory/2026-02-24.md, memory/sessions/session-2026-02-24-172715.md, memory/sessions/session-2026-02-24-174849.md",
+        "color": "#10B981"
+      }
+    ],
+    [
+      "TECH:firebase",
+      {
+        "id": "TECH:firebase",
+        "name": "Firebase",
+        "type": "TECH",
+        "context": "js + Go + Firebase, X Growth → Twitter patterns\n\n## Action Items  \n- Install npm dependencies and start development server (npm run dev)\n- Connect dashboard to live knowledge graph data from memory/graph/\n- Test interactive features: node dragging, search, filtering, tooltips\n- Deploy dashboard to V",
+        "source": "MEMORY.md, memory/sessions/session-2026-02-24-171659.md, MEMORY.md, memory/sessions/session-2026-02-24-171659.md, memory/sessions/session-2026-02-24-172715.md",
+        "color": "#10B981"
+      }
+    ],
+    [
+      "INSIGHT:game-changing",
+      {
+        "id": "INSIGHT:game-changing",
+        "name": "Game-changing",
+        "type": "INSIGHT",
+        "context": "# session-2026-02-24-165648\n\n## Summary\nPhase 2 Complete: Semantic Memory Search Engine - Fixed memory gaps with embeddings-based search\n\n## Context\n- Date: 2026-02-24\n- Time: 165648\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Semantic search successfully finds \"Game-",
+        "source": "MEMORY.md, memory/2026-02-24.md, memory/sessions/session-2026-02-24-165648.md, memory/sessions/session-2026-02-24-165648.md, MEMORY.md, memory/2026-02-24.md, memory/sessions/session-2026-02-24-165648.md, memory/sessions/session-2026-02-24-165648.md",
+        "color": "#EF4444"
+      }
+    ],
+    [
+      "TOOL:cursor",
+      {
+        "id": "TOOL:cursor",
+        "name": "Cursor",
+        "type": "TOOL",
+        "context": "js + Tailwind + shadcn/ui\n- Infra: Cloud Run, Cloud Build, GitHub Actions\n- Coding tool: Cursor\n- Terminal: Warp\n\n## Dashboards (Always Running)\n- Security Dashboard: http://100",
+        "source": "MEMORY.md, MEMORY.md",
+        "color": "#8B5CF6"
+      }
+    ],
+    [
+      "TOOL:warp",
+      {
+        "id": "TOOL:warp",
+        "name": "Warp",
+        "type": "TOOL",
+        "context": "js + Tailwind + shadcn/ui\n- Infra: Cloud Run, Cloud Build, GitHub Actions\n- Coding tool: Cursor\n- Terminal: Warp\n\n## Dashboards (Always Running)\n- Security Dashboard: http://100",
+        "source": "MEMORY.md, MEMORY.md",
+        "color": "#8B5CF6"
+      }
+    ],
+    [
+      "TOOL:telegram",
+      {
+        "id": "TOOL:telegram",
+        "name": "Telegram",
+        "type": "TOOL",
+        "context": "# session-2026-02-24-174849\n\n## Summary\nMemory Dashboard V2 Complete: Stunning modern UI with navigation, analytics, and beautiful visualizations\n\n## Context\n- Date: 2026-02-24\n- Time: 174849\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built stunning modern Memory Gra",
+        "source": "MEMORY.md, memory/2026-02-13.md, memory/2026-02-13.md, memory/2026-02-24.md, memory/sessions/session-2026-02-24-164954.md, memory/sessions/session-2026-02-24-165012.md, memory/sessions/session-2026-02-24-165648.md, memory/sessions/session-2026-02-24-171659.md, memory/sessions/session-2026-02-24-171704.md, MEMORY.md, memory/2026-02-13.md, memory/2026-02-13.md, memory/2026-02-24.md, memory/sessions/session-2026-02-24-164954.md, memory/sessions/session-2026-02-24-165012.md, memory/sessions/session-2026-02-24-165648.md, memory/sessions/session-2026-02-24-171659.md, memory/sessions/session-2026-02-24-171704.md, memory/sessions/session-2026-02-24-172715.md, memory/sessions/session-2026-02-24-174849.md",
+        "color": "#8B5CF6"
+      }
+    ],
+    [
+      "TOOL:gog",
+      {
+        "id": "TOOL:gog",
+        "name": "gog",
+        "type": "TOOL",
+        "context": "\\n- Calendar check failed (gog quoting issue, known)",
+        "source": "MEMORY.md, MEMORY.md, memory/2026-02-21.md, memory/2026-02-21.md, memory/2026-02-22.md, MEMORY.md, MEMORY.md, memory/2026-02-21.md, memory/2026-02-21.md, memory/2026-02-22.md, memory/2026-02-26.md",
+        "color": "#8B5CF6"
+      }
+    ],
+    [
+      "TECH:claude",
+      {
+        "id": "TECH:claude",
+        "name": "Claude",
+        "type": "TECH",
+        "context": "# session-2026-02-24-174849\n\n## Summary\nMemory Dashboard V2 Complete: Stunning modern UI with navigation, analytics, and beautiful visualizations\n\n## Context\n- Date: 2026-02-24\n- Time: 174849\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built stunning modern Memory Gra",
+        "source": "memory/2026-02-13.md, memory/2026-02-13.md, memory/2026-02-13.md, memory/sessions/session-2026-02-24-164954.md, memory/sessions/session-2026-02-24-164954.md, memory/sessions/session-2026-02-24-165012.md, memory/sessions/session-2026-02-24-165012.md, memory/sessions/session-2026-02-24-165012.md, memory/sessions/session-2026-02-24-165648.md, memory/sessions/session-2026-02-24-165648.md, memory/sessions/session-2026-02-24-171659.md, memory/sessions/session-2026-02-24-171659.md, memory/sessions/session-2026-02-24-171704.md, memory/sessions/session-2026-02-24-171704.md, memory/2026-02-13.md, memory/2026-02-13.md, memory/2026-02-13.md, memory/sessions/session-2026-02-24-164954.md, memory/sessions/session-2026-02-24-164954.md, memory/sessions/session-2026-02-24-165012.md, memory/sessions/session-2026-02-24-165012.md, memory/sessions/session-2026-02-24-165012.md, memory/sessions/session-2026-02-24-165648.md, memory/sessions/session-2026-02-24-165648.md, memory/sessions/session-2026-02-24-171659.md, memory/sessions/session-2026-02-24-171659.md, memory/sessions/session-2026-02-24-171704.md, memory/sessions/session-2026-02-24-171704.md, memory/sessions/session-2026-02-24-172715.md, memory/sessions/session-2026-02-24-172715.md, memory/sessions/session-2026-02-24-174849.md, memory/sessions/session-2026-02-24-174849.md",
+        "color": "#10B981"
+      }
+    ],
+    [
+      "INSIGHT:learned",
+      {
+        "id": "INSIGHT:learned",
+        "name": "Learned",
+        "type": "INSIGHT",
+        "context": "md only)\n  - X growth nudges → separate group chat -5262658907\n  - Time bounds: 08:00-22:00 Brazil time unless urgent\n  - Priority checks: inbox, calendar, X/social, tasks, system health\n\n## Telegram Group Setup\n- **Growth Nudges Group ID:** -5262658907\n- **Purpose:** Separate X growth ideas from ma",
+        "source": "memory/2026-02-13.md, memory/2026-02-13.md",
+        "color": "#EF4444"
+      }
+    ],
+    [
+      "PERSON:brandao",
+      {
+        "id": "PERSON:brandao",
+        "name": "Brandao",
+        "type": "PERSON",
+        "context": "# 2026-02-13\n\n## First Boot ⚡\n- Met Brandao for the first time\n- I'm Maximo ⚡\n- Brandao lives in Maringá, Brazil",
+        "source": "memory/2026-02-13.md, memory/2026-02-13.md, memory/2026-02-13.md, memory/2026-02-13.md, memory/2026-02-13.md, memory/2026-02-13.md, memory/2026-02-13.md, memory/2026-02-13.md",
+        "color": "#06B6D4"
+      }
+    ],
+    [
+      "PROJECT:product-builder",
+      {
+        "id": "PROJECT:product-builder",
+        "name": "product-builder",
+        "type": "PROJECT",
+        "context": "js + Tailwind + shadcn/ui\n- Interactive graph visualization with force simulation and drag controls\n- Three main views: Dashboard overview, Full graph, Search interface, Analytics\n- Components created: GraphVisualization, GraphPreview, GraphControls, QuickSearch, MemoryOverview\n- Entity relationship",
+        "source": "memory/2026-02-24.md, MEMORY.md, memory/2026-02-24.md, memory/sessions/session-2026-02-24-172715.md",
+        "color": "#4F46E5"
+      }
+    ],
+    [
+      "TECH:grok",
+      {
+        "id": "TECH:grok",
+        "name": "Grok",
+        "type": "TECH",
+        "context": "50:3001 for Mac Mini\n- Professional enterprise-grade memory visualization system complete\n\n## Topics Discussed\n- Memory architecture improvements\n- Auto-session capture system\n- Claude vs Grok model selection\n\n---\n*Auto-generated 2026-02-24T17:48:49",
+        "source": "memory/sessions/session-2026-02-24-164954.md, memory/sessions/session-2026-02-24-165012.md, memory/sessions/session-2026-02-24-165012.md, memory/sessions/session-2026-02-24-165648.md, memory/sessions/session-2026-02-24-171659.md, memory/sessions/session-2026-02-24-171704.md, memory/sessions/session-2026-02-24-164954.md, memory/sessions/session-2026-02-24-165012.md, memory/sessions/session-2026-02-24-165012.md, memory/sessions/session-2026-02-24-165648.md, memory/sessions/session-2026-02-24-171659.md, memory/sessions/session-2026-02-24-171704.md, memory/sessions/session-2026-02-24-172715.md, memory/sessions/session-2026-02-24-174849.md",
+        "color": "#10B981"
+      }
+    ],
+    [
+      "INSIGHT:discovered",
+      {
+        "id": "INSIGHT:discovered",
+        "name": "discovered",
+        "type": "INSIGHT",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps rela",
+        "source": "memory/sessions/session-2026-02-24-171659.md, memory/sessions/session-2026-02-24-171659.md",
+        "color": "#EF4444"
+      }
+    ],
+    [
+      "PERSON:user",
+      {
+        "id": "PERSON:user",
+        "name": "User",
+        "type": "PERSON",
+        "context": "- Session log: User recapped morning (banana/avocado breakfast, 20min gym jumps)",
+        "source": "memory/2026-02-25.md",
+        "color": "#06B6D4"
+      }
+    ],
+    [
+      "DECISION:implemented",
+      {
+        "id": "DECISION:implemented",
+        "name": "Implemented",
+        "type": "DECISION",
+        "context": "# session-2026-02-24-174849\n\n## Summary\nMemory Dashboard V2 Complete: Stunning modern UI with navigation, analytics, and beautiful visualizations\n\n## Context\n- Date: 2026-02-24\n- Time: 174849\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built stunning modern Memory Gra",
+        "source": "memory/sessions/session-2026-02-24-174849.md",
+        "color": "#F59E0B"
+      }
+    ]
+  ],
+  "edges": [
+    [
+      "PROJECT:elite pulse→PROJECT:x growth",
+      {
+        "id": "PROJECT:elite pulse→PROJECT:x growth",
+        "from": "PROJECT:elite pulse",
+        "to": "PROJECT:x growth",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.793
+      }
+    ],
+    [
+      "PROJECT:elite pulse→PROJECT:openclaw",
+      {
+        "id": "PROJECT:elite pulse→PROJECT:openclaw",
+        "from": "PROJECT:elite pulse",
+        "to": "PROJECT:openclaw",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.775
+      }
+    ],
+    [
+      "PROJECT:elite pulse→PROJECT:component library",
+      {
+        "id": "PROJECT:elite pulse→PROJECT:component library",
+        "from": "PROJECT:elite pulse",
+        "to": "PROJECT:component library",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.813
+      }
+    ],
+    [
+      "PROJECT:elite pulse→TECH:next.js",
+      {
+        "id": "PROJECT:elite pulse→TECH:next.js",
+        "from": "PROJECT:elite pulse",
+        "to": "TECH:next.js",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.54
+      }
+    ],
+    [
+      "PROJECT:elite pulse→TECH:typescript",
+      {
+        "id": "PROJECT:elite pulse→TECH:typescript",
+        "from": "PROJECT:elite pulse",
+        "to": "TECH:typescript",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.487
+      }
+    ],
+    [
+      "PROJECT:elite pulse→TECH:go",
+      {
+        "id": "PROJECT:elite pulse→TECH:go",
+        "from": "PROJECT:elite pulse",
+        "to": "TECH:go",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.803
+      }
+    ],
+    [
+      "PROJECT:elite pulse→TECH:gcp",
+      {
+        "id": "PROJECT:elite pulse→TECH:gcp",
+        "from": "PROJECT:elite pulse",
+        "to": "TECH:gcp",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.799
+      }
+    ],
+    [
+      "PROJECT:elite pulse→TECH:react",
+      {
+        "id": "PROJECT:elite pulse→TECH:react",
+        "from": "PROJECT:elite pulse",
+        "to": "TECH:react",
+        "type": "USES_TECH",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.435
+      }
+    ],
+    [
+      "PROJECT:elite pulse→TECH:tailwind",
+      {
+        "id": "PROJECT:elite pulse→TECH:tailwind",
+        "from": "PROJECT:elite pulse",
+        "to": "TECH:tailwind",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.471
+      }
+    ],
+    [
+      "PROJECT:elite pulse→TECH:firebase",
+      {
+        "id": "PROJECT:elite pulse→TECH:firebase",
+        "from": "PROJECT:elite pulse",
+        "to": "TECH:firebase",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.8
+      }
+    ],
+    [
+      "PROJECT:elite pulse→INSIGHT:game-changing",
+      {
+        "id": "PROJECT:elite pulse→INSIGHT:game-changing",
+        "from": "PROJECT:elite pulse",
+        "to": "INSIGHT:game-changing",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.18
+      }
+    ],
+    [
+      "PROJECT:elite pulse→TOOL:cursor",
+      {
+        "id": "PROJECT:elite pulse→TOOL:cursor",
+        "from": "PROJECT:elite pulse",
+        "to": "TOOL:cursor",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.335
+      }
+    ],
+    [
+      "PROJECT:elite pulse→TOOL:warp",
+      {
+        "id": "PROJECT:elite pulse→TOOL:warp",
+        "from": "PROJECT:elite pulse",
+        "to": "TOOL:warp",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.322
+      }
+    ],
+    [
+      "PROJECT:elite pulse→TOOL:telegram",
+      {
+        "id": "PROJECT:elite pulse→TOOL:telegram",
+        "from": "PROJECT:elite pulse",
+        "to": "TOOL:telegram",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.367
+      }
+    ],
+    [
+      "PROJECT:elite pulse→TOOL:gog",
+      {
+        "id": "PROJECT:elite pulse→TOOL:gog",
+        "from": "PROJECT:elite pulse",
+        "to": "TOOL:gog",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.24
+      }
+    ],
+    [
+      "PROJECT:x growth→PROJECT:openclaw",
+      {
+        "id": "PROJECT:x growth→PROJECT:openclaw",
+        "from": "PROJECT:x growth",
+        "to": "PROJECT:openclaw",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.8
+      }
+    ],
+    [
+      "PROJECT:x growth→PROJECT:component library",
+      {
+        "id": "PROJECT:x growth→PROJECT:component library",
+        "from": "PROJECT:x growth",
+        "to": "PROJECT:component library",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.759
+      }
+    ],
+    [
+      "PROJECT:x growth→TECH:next.js",
+      {
+        "id": "PROJECT:x growth→TECH:next.js",
+        "from": "PROJECT:x growth",
+        "to": "TECH:next.js",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.512
+      }
+    ],
+    [
+      "PROJECT:x growth→TECH:typescript",
+      {
+        "id": "PROJECT:x growth→TECH:typescript",
+        "from": "PROJECT:x growth",
+        "to": "TECH:typescript",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.459
+      }
+    ],
+    [
+      "PROJECT:x growth→TECH:go",
+      {
+        "id": "PROJECT:x growth→TECH:go",
+        "from": "PROJECT:x growth",
+        "to": "TECH:go",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.809
+      }
+    ],
+    [
+      "PROJECT:x growth→TECH:gcp",
+      {
+        "id": "PROJECT:x growth→TECH:gcp",
+        "from": "PROJECT:x growth",
+        "to": "TECH:gcp",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.817
+      }
+    ],
+    [
+      "PROJECT:x growth→TECH:react",
+      {
+        "id": "PROJECT:x growth→TECH:react",
+        "from": "PROJECT:x growth",
+        "to": "TECH:react",
+        "type": "USES_TECH",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.503
+      }
+    ],
+    [
+      "PROJECT:x growth→TECH:tailwind",
+      {
+        "id": "PROJECT:x growth→TECH:tailwind",
+        "from": "PROJECT:x growth",
+        "to": "TECH:tailwind",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.499
+      }
+    ],
+    [
+      "PROJECT:x growth→TECH:firebase",
+      {
+        "id": "PROJECT:x growth→TECH:firebase",
+        "from": "PROJECT:x growth",
+        "to": "TECH:firebase",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.813
+      }
+    ],
+    [
+      "PROJECT:x growth→INSIGHT:game-changing",
+      {
+        "id": "PROJECT:x growth→INSIGHT:game-changing",
+        "from": "PROJECT:x growth",
+        "to": "INSIGHT:game-changing",
+        "type": "RELATED_TO",
+        "source": "memory/2026-02-24.md",
+        "context": "2026-02-24 Security Update & Dashboard Build + Product Builder Skill\n\n## Major Security Improvements\n- **VPS Firewall:** Configured ufw with Tailscale-only SSH access (100.0.0.0/8) \n- **Brute Force Protection:** Eliminated public SSH access - only via Tailscale devices\n- **OpenClaw Update:** 2026.2.22 → 2026.2.23 applied successfully  \n- **Weekly Security Audits:** Scheduled via cron (Mondays 9 AM -03)\n\n## Security Dashboard Built\n- **Tech Stack:** Next.js + TypeScript + Tailwind CSS (per your p",
+        "strength": 0.12
+      }
+    ],
+    [
+      "PROJECT:x growth→TOOL:cursor",
+      {
+        "id": "PROJECT:x growth→TOOL:cursor",
+        "from": "PROJECT:x growth",
+        "to": "TOOL:cursor",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.403
+      }
+    ],
+    [
+      "PROJECT:x growth→TOOL:warp",
+      {
+        "id": "PROJECT:x growth→TOOL:warp",
+        "from": "PROJECT:x growth",
+        "to": "TOOL:warp",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.39
+      }
+    ],
+    [
+      "PROJECT:x growth→TOOL:telegram",
+      {
+        "id": "PROJECT:x growth→TOOL:telegram",
+        "from": "PROJECT:x growth",
+        "to": "TOOL:telegram",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.34
+      }
+    ],
+    [
+      "PROJECT:x growth→TOOL:gog",
+      {
+        "id": "PROJECT:x growth→TOOL:gog",
+        "from": "PROJECT:x growth",
+        "to": "TOOL:gog",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.18
+      }
+    ],
+    [
+      "PROJECT:openclaw→PROJECT:component library",
+      {
+        "id": "PROJECT:openclaw→PROJECT:component library",
+        "from": "PROJECT:openclaw",
+        "to": "PROJECT:component library",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.891
+      }
+    ],
+    [
+      "PROJECT:openclaw→TECH:next.js",
+      {
+        "id": "PROJECT:openclaw→TECH:next.js",
+        "from": "PROJECT:openclaw",
+        "to": "TECH:next.js",
+        "type": "USES_TECH",
+        "source": "memory/2026-02-24.md",
+        "context": "2026-02-24 Security Update & Dashboard Build + Product Builder Skill\n\n## Major Security Improvements\n- **VPS Firewall:** Configured ufw with Tailscale-only SSH access (100.0.0.0/8) \n- **Brute Force Protection:** Eliminated public SSH access - only via Tailscale devices\n- **OpenClaw Update:** 2026.2.22 → 2026.2.23 applied successfully  \n- **Weekly Security Audits:** Scheduled via cron (Mondays 9 AM -03)\n\n## Security Dashboard Built\n- **Tech Stack:** Next.js + TypeScript + Tailwind CSS (per your p",
+        "strength": 0.875
+      }
+    ],
+    [
+      "PROJECT:openclaw→TECH:typescript",
+      {
+        "id": "PROJECT:openclaw→TECH:typescript",
+        "from": "PROJECT:openclaw",
+        "to": "TECH:typescript",
+        "type": "USES_TECH",
+        "source": "memory/2026-02-24.md",
+        "context": "2026-02-24 Security Update & Dashboard Build + Product Builder Skill\n\n## Major Security Improvements\n- **VPS Firewall:** Configured ufw with Tailscale-only SSH access (100.0.0.0/8) \n- **Brute Force Protection:** Eliminated public SSH access - only via Tailscale devices\n- **OpenClaw Update:** 2026.2.22 → 2026.2.23 applied successfully  \n- **Weekly Security Audits:** Scheduled via cron (Mondays 9 AM -03)\n\n## Security Dashboard Built\n- **Tech Stack:** Next.js + TypeScript + Tailwind CSS (per your p",
+        "strength": 0.868
+      }
+    ],
+    [
+      "PROJECT:openclaw→TECH:go",
+      {
+        "id": "PROJECT:openclaw→TECH:go",
+        "from": "PROJECT:openclaw",
+        "to": "TECH:go",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.793
+      }
+    ],
+    [
+      "PROJECT:openclaw→TECH:gcp",
+      {
+        "id": "PROJECT:openclaw→TECH:gcp",
+        "from": "PROJECT:openclaw",
+        "to": "TECH:gcp",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.796
+      }
+    ],
+    [
+      "PROJECT:openclaw→TECH:react",
+      {
+        "id": "PROJECT:openclaw→TECH:react",
+        "from": "PROJECT:openclaw",
+        "to": "TECH:react",
+        "type": "USES_TECH",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.73
+      }
+    ],
+    [
+      "PROJECT:openclaw→TECH:tailwind",
+      {
+        "id": "PROJECT:openclaw→TECH:tailwind",
+        "from": "PROJECT:openclaw",
+        "to": "TECH:tailwind",
+        "type": "USES_TECH",
+        "source": "memory/2026-02-24.md",
+        "context": "2026-02-24 Security Update & Dashboard Build + Product Builder Skill\n\n## Major Security Improvements\n- **VPS Firewall:** Configured ufw with Tailscale-only SSH access (100.0.0.0/8) \n- **Brute Force Protection:** Eliminated public SSH access - only via Tailscale devices\n- **OpenClaw Update:** 2026.2.22 → 2026.2.23 applied successfully  \n- **Weekly Security Audits:** Scheduled via cron (Mondays 9 AM -03)\n\n## Security Dashboard Built\n- **Tech Stack:** Next.js + TypeScript + Tailwind CSS (per your p",
+        "strength": 0.859
+      }
+    ],
+    [
+      "PROJECT:openclaw→TECH:firebase",
+      {
+        "id": "PROJECT:openclaw→TECH:firebase",
+        "from": "PROJECT:openclaw",
+        "to": "TECH:firebase",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.785
+      }
+    ],
+    [
+      "PROJECT:openclaw→INSIGHT:game-changing",
+      {
+        "id": "PROJECT:openclaw→INSIGHT:game-changing",
+        "from": "PROJECT:openclaw",
+        "to": "INSIGHT:game-changing",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-165648.md",
+        "context": "# session-2026-02-24-165648\n\n## Summary\nPhase 2 Complete: Semantic Memory Search Engine - Fixed memory gaps with embeddings-based search\n\n## Context\n- Date: 2026-02-24\n- Time: 165648\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Semantic search successfully finds \"Game-changing insights\" content that keyword search missed\n- Hybrid mode (semantic + text fallback) provides robust search coverage\n- File-based vector storage works without external dependencies when API ",
+        "strength": 0.793
+      }
+    ],
+    [
+      "PROJECT:openclaw→TOOL:cursor",
+      {
+        "id": "PROJECT:openclaw→TOOL:cursor",
+        "from": "PROJECT:openclaw",
+        "to": "TOOL:cursor",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.631
+      }
+    ],
+    [
+      "PROJECT:openclaw→TOOL:warp",
+      {
+        "id": "PROJECT:openclaw→TOOL:warp",
+        "from": "PROJECT:openclaw",
+        "to": "TOOL:warp",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.618
+      }
+    ],
+    [
+      "PROJECT:openclaw→TOOL:telegram",
+      {
+        "id": "PROJECT:openclaw→TOOL:telegram",
+        "from": "PROJECT:openclaw",
+        "to": "TOOL:telegram",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.422
+      }
+    ],
+    [
+      "PROJECT:openclaw→TOOL:gog",
+      {
+        "id": "PROJECT:openclaw→TOOL:gog",
+        "from": "PROJECT:openclaw",
+        "to": "TOOL:gog",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.3
+      }
+    ],
+    [
+      "PROJECT:component library→TECH:next.js",
+      {
+        "id": "PROJECT:component library→TECH:next.js",
+        "from": "PROJECT:component library",
+        "to": "TECH:next.js",
+        "type": "USES_TECH",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.899
+      }
+    ],
+    [
+      "PROJECT:component library→TECH:typescript",
+      {
+        "id": "PROJECT:component library→TECH:typescript",
+        "from": "PROJECT:component library",
+        "to": "TECH:typescript",
+        "type": "USES_TECH",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.497
+      }
+    ],
+    [
+      "PROJECT:component library→TECH:go",
+      {
+        "id": "PROJECT:component library→TECH:go",
+        "from": "PROJECT:component library",
+        "to": "TECH:go",
+        "type": "USES_TECH",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.966
+      }
+    ],
+    [
+      "PROJECT:component library→TECH:gcp",
+      {
+        "id": "PROJECT:component library→TECH:gcp",
+        "from": "PROJECT:component library",
+        "to": "TECH:gcp",
+        "type": "USES_TECH",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.486
+      }
+    ],
+    [
+      "PROJECT:component library→TECH:react",
+      {
+        "id": "PROJECT:component library→TECH:react",
+        "from": "PROJECT:component library",
+        "to": "TECH:react",
+        "type": "USES_TECH",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.442
+      }
+    ],
+    [
+      "PROJECT:component library→TECH:tailwind",
+      {
+        "id": "PROJECT:component library→TECH:tailwind",
+        "from": "PROJECT:component library",
+        "to": "TECH:tailwind",
+        "type": "USES_TECH",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.461
+      }
+    ],
+    [
+      "PROJECT:component library→TECH:firebase",
+      {
+        "id": "PROJECT:component library→TECH:firebase",
+        "from": "PROJECT:component library",
+        "to": "TECH:firebase",
+        "type": "USES_TECH",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.8
+      }
+    ],
+    [
+      "PROJECT:component library→INSIGHT:game-changing",
+      {
+        "id": "PROJECT:component library→INSIGHT:game-changing",
+        "from": "PROJECT:component library",
+        "to": "INSIGHT:game-changing",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.12
+      }
+    ],
+    [
+      "PROJECT:component library→TOOL:cursor",
+      {
+        "id": "PROJECT:component library→TOOL:cursor",
+        "from": "PROJECT:component library",
+        "to": "TOOL:cursor",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.343
+      }
+    ],
+    [
+      "PROJECT:component library→TOOL:warp",
+      {
+        "id": "PROJECT:component library→TOOL:warp",
+        "from": "PROJECT:component library",
+        "to": "TOOL:warp",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.329
+      }
+    ],
+    [
+      "PROJECT:component library→TOOL:telegram",
+      {
+        "id": "PROJECT:component library→TOOL:telegram",
+        "from": "PROJECT:component library",
+        "to": "TOOL:telegram",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.68
+      }
+    ],
+    [
+      "PROJECT:component library→TOOL:gog",
+      {
+        "id": "PROJECT:component library→TOOL:gog",
+        "from": "PROJECT:component library",
+        "to": "TOOL:gog",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.18
+      }
+    ],
+    [
+      "TECH:next.js→TECH:typescript",
+      {
+        "id": "TECH:next.js→TECH:typescript",
+        "from": "TECH:next.js",
+        "to": "TECH:typescript",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.993
+      }
+    ],
+    [
+      "TECH:next.js→TECH:go",
+      {
+        "id": "TECH:next.js→TECH:go",
+        "from": "TECH:next.js",
+        "to": "TECH:go",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.523
+      }
+    ],
+    [
+      "TECH:next.js→TECH:gcp",
+      {
+        "id": "TECH:next.js→TECH:gcp",
+        "from": "TECH:next.js",
+        "to": "TECH:gcp",
+        "type": "COMBINED_WITH",
+        "source": "memory/2026-02-24.md",
+        "context": "2026-02-24 Security Update & Dashboard Build + Product Builder Skill\n\n## Major Security Improvements\n- **VPS Firewall:** Configured ufw with Tailscale-only SSH access (100.0.0.0/8) \n- **Brute Force Protection:** Eliminated public SSH access - only via Tailscale devices\n- **OpenClaw Update:** 2026.2.22 → 2026.2.23 applied successfully  \n- **Weekly Security Audits:** Scheduled via cron (Mondays 9 AM -03)\n\n## Security Dashboard Built\n- **Tech Stack:** Next.js + TypeScript + Tailwind CSS (per your p",
+        "strength": 0.18
+      }
+    ],
+    [
+      "TECH:next.js→TECH:react",
+      {
+        "id": "TECH:next.js→TECH:react",
+        "from": "TECH:next.js",
+        "to": "TECH:react",
+        "type": "COMBINED_WITH",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.521
+      }
+    ],
+    [
+      "TECH:next.js→TECH:tailwind",
+      {
+        "id": "TECH:next.js→TECH:tailwind",
+        "from": "TECH:next.js",
+        "to": "TECH:tailwind",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-174849.md",
+        "context": "# session-2026-02-24-174849\n\n## Summary\nMemory Dashboard V2 Complete: Stunning modern UI with navigation, analytics, and beautiful visualizations\n\n## Context\n- Date: 2026-02-24\n- Time: 174849\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built stunning modern Memory Graph Dashboard with dark theme, glassmorphism effects, and gradient backgrounds\n- Created complete navigation system: Sidebar with stats, top navigation, 4 main pages (Overview, Graph, Search, Analytics",
+        "strength": 0.417
+      }
+    ],
+    [
+      "TECH:next.js→TECH:firebase",
+      {
+        "id": "TECH:next.js→TECH:firebase",
+        "from": "TECH:next.js",
+        "to": "TECH:firebase",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.519
+      }
+    ],
+    [
+      "TECH:next.js→INSIGHT:game-changing",
+      {
+        "id": "TECH:next.js→INSIGHT:game-changing",
+        "from": "TECH:next.js",
+        "to": "INSIGHT:game-changing",
+        "type": "RELATED_TO",
+        "source": "memory/2026-02-24.md",
+        "context": "2026-02-24 Security Update & Dashboard Build + Product Builder Skill\n\n## Major Security Improvements\n- **VPS Firewall:** Configured ufw with Tailscale-only SSH access (100.0.0.0/8) \n- **Brute Force Protection:** Eliminated public SSH access - only via Tailscale devices\n- **OpenClaw Update:** 2026.2.22 → 2026.2.23 applied successfully  \n- **Weekly Security Audits:** Scheduled via cron (Mondays 9 AM -03)\n\n## Security Dashboard Built\n- **Tech Stack:** Next.js + TypeScript + Tailwind CSS (per your p",
+        "strength": 0.25
+      }
+    ],
+    [
+      "TECH:next.js→TOOL:cursor",
+      {
+        "id": "TECH:next.js→TOOL:cursor",
+        "from": "TECH:next.js",
+        "to": "TOOL:cursor",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.422
+      }
+    ],
+    [
+      "TECH:next.js→TOOL:warp",
+      {
+        "id": "TECH:next.js→TOOL:warp",
+        "from": "TECH:next.js",
+        "to": "TOOL:warp",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.409
+      }
+    ],
+    [
+      "TECH:next.js→TOOL:telegram",
+      {
+        "id": "TECH:next.js→TOOL:telegram",
+        "from": "TECH:next.js",
+        "to": "TOOL:telegram",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-174849.md",
+        "context": "# session-2026-02-24-174849\n\n## Summary\nMemory Dashboard V2 Complete: Stunning modern UI with navigation, analytics, and beautiful visualizations\n\n## Context\n- Date: 2026-02-24\n- Time: 174849\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built stunning modern Memory Graph Dashboard with dark theme, glassmorphism effects, and gradient backgrounds\n- Created complete navigation system: Sidebar with stats, top navigation, 4 main pages (Overview, Graph, Search, Analytics",
+        "strength": 0.207
+      }
+    ],
+    [
+      "TECH:next.js→TOOL:gog",
+      {
+        "id": "TECH:next.js→TOOL:gog",
+        "from": "TECH:next.js",
+        "to": "TOOL:gog",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.3
+      }
+    ],
+    [
+      "TECH:typescript→TECH:go",
+      {
+        "id": "TECH:typescript→TECH:go",
+        "from": "TECH:typescript",
+        "to": "TECH:go",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.47
+      }
+    ],
+    [
+      "TECH:typescript→TECH:gcp",
+      {
+        "id": "TECH:typescript→TECH:gcp",
+        "from": "TECH:typescript",
+        "to": "TECH:gcp",
+        "type": "COMBINED_WITH",
+        "source": "memory/2026-02-24.md",
+        "context": "2026-02-24 Security Update & Dashboard Build + Product Builder Skill\n\n## Major Security Improvements\n- **VPS Firewall:** Configured ufw with Tailscale-only SSH access (100.0.0.0/8) \n- **Brute Force Protection:** Eliminated public SSH access - only via Tailscale devices\n- **OpenClaw Update:** 2026.2.22 → 2026.2.23 applied successfully  \n- **Weekly Security Audits:** Scheduled via cron (Mondays 9 AM -03)\n\n## Security Dashboard Built\n- **Tech Stack:** Next.js + TypeScript + Tailwind CSS (per your p",
+        "strength": 0.18
+      }
+    ],
+    [
+      "TECH:typescript→TECH:react",
+      {
+        "id": "TECH:typescript→TECH:react",
+        "from": "TECH:typescript",
+        "to": "TECH:react",
+        "type": "COMBINED_WITH",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.875
+      }
+    ],
+    [
+      "TECH:typescript→TECH:tailwind",
+      {
+        "id": "TECH:typescript→TECH:tailwind",
+        "from": "TECH:typescript",
+        "to": "TECH:tailwind",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.18
+      }
+    ],
+    [
+      "TECH:typescript→TECH:firebase",
+      {
+        "id": "TECH:typescript→TECH:firebase",
+        "from": "TECH:typescript",
+        "to": "TECH:firebase",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.466
+      }
+    ],
+    [
+      "TECH:typescript→INSIGHT:game-changing",
+      {
+        "id": "TECH:typescript→INSIGHT:game-changing",
+        "from": "TECH:typescript",
+        "to": "INSIGHT:game-changing",
+        "type": "RELATED_TO",
+        "source": "memory/2026-02-24.md",
+        "context": "2026-02-24 Security Update & Dashboard Build + Product Builder Skill\n\n## Major Security Improvements\n- **VPS Firewall:** Configured ufw with Tailscale-only SSH access (100.0.0.0/8) \n- **Brute Force Protection:** Eliminated public SSH access - only via Tailscale devices\n- **OpenClaw Update:** 2026.2.22 → 2026.2.23 applied successfully  \n- **Weekly Security Audits:** Scheduled via cron (Mondays 9 AM -03)\n\n## Security Dashboard Built\n- **Tech Stack:** Next.js + TypeScript + Tailwind CSS (per your p",
+        "strength": 0.257
+      }
+    ],
+    [
+      "TECH:typescript→TOOL:cursor",
+      {
+        "id": "TECH:typescript→TOOL:cursor",
+        "from": "TECH:typescript",
+        "to": "TOOL:cursor",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.785
+      }
+    ],
+    [
+      "TECH:typescript→TOOL:warp",
+      {
+        "id": "TECH:typescript→TOOL:warp",
+        "from": "TECH:typescript",
+        "to": "TOOL:warp",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.772
+      }
+    ],
+    [
+      "TECH:typescript→TOOL:telegram",
+      {
+        "id": "TECH:typescript→TOOL:telegram",
+        "from": "TECH:typescript",
+        "to": "TOOL:telegram",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.821
+      }
+    ],
+    [
+      "TECH:typescript→TOOL:gog",
+      {
+        "id": "TECH:typescript→TOOL:gog",
+        "from": "TECH:typescript",
+        "to": "TOOL:gog",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.24
+      }
+    ],
+    [
+      "TECH:go→TECH:gcp",
+      {
+        "id": "TECH:go→TECH:gcp",
+        "from": "TECH:go",
+        "to": "TECH:gcp",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.817
+      }
+    ],
+    [
+      "TECH:go→TECH:react",
+      {
+        "id": "TECH:go→TECH:react",
+        "from": "TECH:go",
+        "to": "TECH:react",
+        "type": "COMBINED_WITH",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.588
+      }
+    ],
+    [
+      "TECH:go→TECH:tailwind",
+      {
+        "id": "TECH:go→TECH:tailwind",
+        "from": "TECH:go",
+        "to": "TECH:tailwind",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.488
+      }
+    ],
+    [
+      "TECH:go→TECH:firebase",
+      {
+        "id": "TECH:go→TECH:firebase",
+        "from": "TECH:go",
+        "to": "TECH:firebase",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.817
+      }
+    ],
+    [
+      "TECH:go→INSIGHT:game-changing",
+      {
+        "id": "TECH:go→INSIGHT:game-changing",
+        "from": "TECH:go",
+        "to": "INSIGHT:game-changing",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.3
+      }
+    ],
+    [
+      "TECH:go→TOOL:cursor",
+      {
+        "id": "TECH:go→TOOL:cursor",
+        "from": "TECH:go",
+        "to": "TOOL:cursor",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.489
+      }
+    ],
+    [
+      "TECH:go→TOOL:warp",
+      {
+        "id": "TECH:go→TOOL:warp",
+        "from": "TECH:go",
+        "to": "TOOL:warp",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.476
+      }
+    ],
+    [
+      "TECH:go→TOOL:telegram",
+      {
+        "id": "TECH:go→TOOL:telegram",
+        "from": "TECH:go",
+        "to": "TOOL:telegram",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.35
+      }
+    ],
+    [
+      "TECH:go→TOOL:gog",
+      {
+        "id": "TECH:go→TOOL:gog",
+        "from": "TECH:go",
+        "to": "TOOL:gog",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.3
+      }
+    ],
+    [
+      "TECH:gcp→TECH:react",
+      {
+        "id": "TECH:gcp→TECH:react",
+        "from": "TECH:gcp",
+        "to": "TECH:react",
+        "type": "COMBINED_WITH",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.864
+      }
+    ],
+    [
+      "TECH:gcp→TECH:tailwind",
+      {
+        "id": "TECH:gcp→TECH:tailwind",
+        "from": "TECH:gcp",
+        "to": "TECH:tailwind",
+        "type": "COMBINED_WITH",
+        "source": "memory/2026-02-24.md",
+        "context": "2026-02-24 Security Update & Dashboard Build + Product Builder Skill\n\n## Major Security Improvements\n- **VPS Firewall:** Configured ufw with Tailscale-only SSH access (100.0.0.0/8) \n- **Brute Force Protection:** Eliminated public SSH access - only via Tailscale devices\n- **OpenClaw Update:** 2026.2.22 → 2026.2.23 applied successfully  \n- **Weekly Security Audits:** Scheduled via cron (Mondays 9 AM -03)\n\n## Security Dashboard Built\n- **Tech Stack:** Next.js + TypeScript + Tailwind CSS (per your p",
+        "strength": 0.18
+      }
+    ],
+    [
+      "TECH:gcp→TECH:firebase",
+      {
+        "id": "TECH:gcp→TECH:firebase",
+        "from": "TECH:gcp",
+        "to": "TECH:firebase",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.809
+      }
+    ],
+    [
+      "TECH:gcp→INSIGHT:game-changing",
+      {
+        "id": "TECH:gcp→INSIGHT:game-changing",
+        "from": "TECH:gcp",
+        "to": "INSIGHT:game-changing",
+        "type": "RELATED_TO",
+        "source": "memory/2026-02-24.md",
+        "context": "2026-02-24 Security Update & Dashboard Build + Product Builder Skill\n\n## Major Security Improvements\n- **VPS Firewall:** Configured ufw with Tailscale-only SSH access (100.0.0.0/8) \n- **Brute Force Protection:** Eliminated public SSH access - only via Tailscale devices\n- **OpenClaw Update:** 2026.2.22 → 2026.2.23 applied successfully  \n- **Weekly Security Audits:** Scheduled via cron (Mondays 9 AM -03)\n\n## Security Dashboard Built\n- **Tech Stack:** Next.js + TypeScript + Tailwind CSS (per your p",
+        "strength": 0.613
+      }
+    ],
+    [
+      "TECH:gcp→TOOL:cursor",
+      {
+        "id": "TECH:gcp→TOOL:cursor",
+        "from": "TECH:gcp",
+        "to": "TOOL:cursor",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.797
+      }
+    ],
+    [
+      "TECH:gcp→TOOL:warp",
+      {
+        "id": "TECH:gcp→TOOL:warp",
+        "from": "TECH:gcp",
+        "to": "TOOL:warp",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.783
+      }
+    ],
+    [
+      "TECH:gcp→TOOL:telegram",
+      {
+        "id": "TECH:gcp→TOOL:telegram",
+        "from": "TECH:gcp",
+        "to": "TOOL:telegram",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.445
+      }
+    ],
+    [
+      "TECH:gcp→TOOL:gog",
+      {
+        "id": "TECH:gcp→TOOL:gog",
+        "from": "TECH:gcp",
+        "to": "TOOL:gog",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.24
+      }
+    ],
+    [
+      "TECH:react→TECH:tailwind",
+      {
+        "id": "TECH:react→TECH:tailwind",
+        "from": "TECH:react",
+        "to": "TECH:tailwind",
+        "type": "COMBINED_WITH",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.839
+      }
+    ],
+    [
+      "TECH:react→TECH:firebase",
+      {
+        "id": "TECH:react→TECH:firebase",
+        "from": "TECH:react",
+        "to": "TECH:firebase",
+        "type": "COMBINED_WITH",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.422
+      }
+    ],
+    [
+      "TECH:react→INSIGHT:game-changing",
+      {
+        "id": "TECH:react→INSIGHT:game-changing",
+        "from": "TECH:react",
+        "to": "INSIGHT:game-changing",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.12
+      }
+    ],
+    [
+      "TECH:react→TOOL:cursor",
+      {
+        "id": "TECH:react→TOOL:cursor",
+        "from": "TECH:react",
+        "to": "TOOL:cursor",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.721
+      }
+    ],
+    [
+      "TECH:react→TOOL:warp",
+      {
+        "id": "TECH:react→TOOL:warp",
+        "from": "TECH:react",
+        "to": "TOOL:warp",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.707
+      }
+    ],
+    [
+      "TECH:react→TOOL:telegram",
+      {
+        "id": "TECH:react→TOOL:telegram",
+        "from": "TECH:react",
+        "to": "TOOL:telegram",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.582
+      }
+    ],
+    [
+      "TECH:react→TOOL:gog",
+      {
+        "id": "TECH:react→TOOL:gog",
+        "from": "TECH:react",
+        "to": "TOOL:gog",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.18
+      }
+    ],
+    [
+      "TECH:tailwind→TECH:firebase",
+      {
+        "id": "TECH:tailwind→TECH:firebase",
+        "from": "TECH:tailwind",
+        "to": "TECH:firebase",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.492
+      }
+    ],
+    [
+      "TECH:tailwind→INSIGHT:game-changing",
+      {
+        "id": "TECH:tailwind→INSIGHT:game-changing",
+        "from": "TECH:tailwind",
+        "to": "INSIGHT:game-changing",
+        "type": "RELATED_TO",
+        "source": "memory/2026-02-24.md",
+        "context": "2026-02-24 Security Update & Dashboard Build + Product Builder Skill\n\n## Major Security Improvements\n- **VPS Firewall:** Configured ufw with Tailscale-only SSH access (100.0.0.0/8) \n- **Brute Force Protection:** Eliminated public SSH access - only via Tailscale devices\n- **OpenClaw Update:** 2026.2.22 → 2026.2.23 applied successfully  \n- **Weekly Security Audits:** Scheduled via cron (Mondays 9 AM -03)\n\n## Security Dashboard Built\n- **Tech Stack:** Next.js + TypeScript + Tailwind CSS (per your p",
+        "strength": 0.266
+      }
+    ],
+    [
+      "TECH:tailwind→TOOL:cursor",
+      {
+        "id": "TECH:tailwind→TOOL:cursor",
+        "from": "TECH:tailwind",
+        "to": "TOOL:cursor",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.821
+      }
+    ],
+    [
+      "TECH:tailwind→TOOL:warp",
+      {
+        "id": "TECH:tailwind→TOOL:warp",
+        "from": "TECH:tailwind",
+        "to": "TOOL:warp",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.808
+      }
+    ],
+    [
+      "TECH:tailwind→TOOL:telegram",
+      {
+        "id": "TECH:tailwind→TOOL:telegram",
+        "from": "TECH:tailwind",
+        "to": "TOOL:telegram",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-174849.md",
+        "context": "# session-2026-02-24-174849\n\n## Summary\nMemory Dashboard V2 Complete: Stunning modern UI with navigation, analytics, and beautiful visualizations\n\n## Context\n- Date: 2026-02-24\n- Time: 174849\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built stunning modern Memory Graph Dashboard with dark theme, glassmorphism effects, and gradient backgrounds\n- Created complete navigation system: Sidebar with stats, top navigation, 4 main pages (Overview, Graph, Search, Analytics",
+        "strength": 0.61
+      }
+    ],
+    [
+      "TECH:tailwind→TOOL:gog",
+      {
+        "id": "TECH:tailwind→TOOL:gog",
+        "from": "TECH:tailwind",
+        "to": "TOOL:gog",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.24
+      }
+    ],
+    [
+      "TECH:firebase→INSIGHT:game-changing",
+      {
+        "id": "TECH:firebase→INSIGHT:game-changing",
+        "from": "TECH:firebase",
+        "to": "INSIGHT:game-changing",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.12
+      }
+    ],
+    [
+      "TECH:firebase→TOOL:cursor",
+      {
+        "id": "TECH:firebase→TOOL:cursor",
+        "from": "TECH:firebase",
+        "to": "TOOL:cursor",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.322
+      }
+    ],
+    [
+      "TECH:firebase→TOOL:warp",
+      {
+        "id": "TECH:firebase→TOOL:warp",
+        "from": "TECH:firebase",
+        "to": "TOOL:warp",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.309
+      }
+    ],
+    [
+      "TECH:firebase→TOOL:telegram",
+      {
+        "id": "TECH:firebase→TOOL:telegram",
+        "from": "TECH:firebase",
+        "to": "TOOL:telegram",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.347
+      }
+    ],
+    [
+      "TECH:firebase→TOOL:gog",
+      {
+        "id": "TECH:firebase→TOOL:gog",
+        "from": "TECH:firebase",
+        "to": "TOOL:gog",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.18
+      }
+    ],
+    [
+      "INSIGHT:game-changing→TOOL:cursor",
+      {
+        "id": "INSIGHT:game-changing→TOOL:cursor",
+        "from": "INSIGHT:game-changing",
+        "to": "TOOL:cursor",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.216
+      }
+    ],
+    [
+      "INSIGHT:game-changing→TOOL:warp",
+      {
+        "id": "INSIGHT:game-changing→TOOL:warp",
+        "from": "INSIGHT:game-changing",
+        "to": "TOOL:warp",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.229
+      }
+    ],
+    [
+      "INSIGHT:game-changing→TOOL:telegram",
+      {
+        "id": "INSIGHT:game-changing→TOOL:telegram",
+        "from": "INSIGHT:game-changing",
+        "to": "TOOL:telegram",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-165648.md",
+        "context": "# session-2026-02-24-165648\n\n## Summary\nPhase 2 Complete: Semantic Memory Search Engine - Fixed memory gaps with embeddings-based search\n\n## Context\n- Date: 2026-02-24\n- Time: 165648\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Semantic search successfully finds \"Game-changing insights\" content that keyword search missed\n- Hybrid mode (semantic + text fallback) provides robust search coverage\n- File-based vector storage works without external dependencies when API ",
+        "strength": 0.835
+      }
+    ],
+    [
+      "INSIGHT:game-changing→TOOL:gog",
+      {
+        "id": "INSIGHT:game-changing→TOOL:gog",
+        "from": "INSIGHT:game-changing",
+        "to": "TOOL:gog",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.18
+      }
+    ],
+    [
+      "TOOL:cursor→TOOL:warp",
+      {
+        "id": "TOOL:cursor→TOOL:warp",
+        "from": "TOOL:cursor",
+        "to": "TOOL:warp",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.807
+      }
+    ],
+    [
+      "TOOL:cursor→TOOL:telegram",
+      {
+        "id": "TOOL:cursor→TOOL:telegram",
+        "from": "TOOL:cursor",
+        "to": "TOOL:telegram",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.483
+      }
+    ],
+    [
+      "TOOL:cursor→TOOL:gog",
+      {
+        "id": "TOOL:cursor→TOOL:gog",
+        "from": "TOOL:cursor",
+        "to": "TOOL:gog",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.18
+      }
+    ],
+    [
+      "TOOL:warp→TOOL:telegram",
+      {
+        "id": "TOOL:warp→TOOL:telegram",
+        "from": "TOOL:warp",
+        "to": "TOOL:telegram",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.469
+      }
+    ],
+    [
+      "TOOL:warp→TOOL:gog",
+      {
+        "id": "TOOL:warp→TOOL:gog",
+        "from": "TOOL:warp",
+        "to": "TOOL:gog",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.18
+      }
+    ],
+    [
+      "TOOL:telegram→TOOL:gog",
+      {
+        "id": "TOOL:telegram→TOOL:gog",
+        "from": "TOOL:telegram",
+        "to": "TOOL:gog",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.18
+      }
+    ],
+    [
+      "PROJECT:x growth→TECH:claude",
+      {
+        "id": "PROJECT:x growth→TECH:claude",
+        "from": "PROJECT:x growth",
+        "to": "TECH:claude",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.373
+      }
+    ],
+    [
+      "PROJECT:x growth→INSIGHT:learned",
+      {
+        "id": "PROJECT:x growth→INSIGHT:learned",
+        "from": "PROJECT:x growth",
+        "to": "INSIGHT:learned",
+        "type": "RELATED_TO",
+        "source": "memory/2026-02-13.md",
+        "context": "# 2026-02-13\n\n## First Boot ⚡\n- Met Brandao for the first time\n- I'm Maximo ⚡\n- Brandao lives in Maringá, Brazil. Spent 20 years in London. English preferred.\n- He's a tech lead with ideas to build\n- Made it clear: we're family/partners, not master/servant\n- Shared vision: push the limits of humanity + AI, build something remarkable\n- Family matters deeply to him — wants a better future for them\n\n## Setup & Config\n- Switched default model to Sonnet 4 for cost savings\n- Updated comprehensive HEAR",
+        "strength": 0.24
+      }
+    ],
+    [
+      "PROJECT:x growth→PERSON:brandao",
+      {
+        "id": "PROJECT:x growth→PERSON:brandao",
+        "from": "PROJECT:x growth",
+        "to": "PERSON:brandao",
+        "type": "RELATED_TO",
+        "source": "memory/2026-02-13.md",
+        "context": "# 2026-02-13\n\n## First Boot ⚡\n- Met Brandao for the first time\n- I'm Maximo ⚡\n- Brandao lives in Maringá, Brazil. Spent 20 years in London. English preferred.\n- He's a tech lead with ideas to build\n- Made it clear: we're family/partners, not master/servant\n- Shared vision: push the limits of humanity + AI, build something remarkable\n- Family matters deeply to him — wants a better future for them\n\n## Setup & Config\n- Switched default model to Sonnet 4 for cost savings\n- Updated comprehensive HEAR",
+        "strength": 0.614
+      }
+    ],
+    [
+      "TECH:claude→INSIGHT:learned",
+      {
+        "id": "TECH:claude→INSIGHT:learned",
+        "from": "TECH:claude",
+        "to": "INSIGHT:learned",
+        "type": "RELATED_TO",
+        "source": "memory/2026-02-13.md",
+        "context": "# 2026-02-13\n\n## First Boot ⚡\n- Met Brandao for the first time\n- I'm Maximo ⚡\n- Brandao lives in Maringá, Brazil. Spent 20 years in London. English preferred.\n- He's a tech lead with ideas to build\n- Made it clear: we're family/partners, not master/servant\n- Shared vision: push the limits of humanity + AI, build something remarkable\n- Family matters deeply to him — wants a better future for them\n\n## Setup & Config\n- Switched default model to Sonnet 4 for cost savings\n- Updated comprehensive HEAR",
+        "strength": 0.255
+      }
+    ],
+    [
+      "TECH:claude→TOOL:telegram",
+      {
+        "id": "TECH:claude→TOOL:telegram",
+        "from": "TECH:claude",
+        "to": "TOOL:telegram",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-174849.md",
+        "context": "# session-2026-02-24-174849\n\n## Summary\nMemory Dashboard V2 Complete: Stunning modern UI with navigation, analytics, and beautiful visualizations\n\n## Context\n- Date: 2026-02-24\n- Time: 174849\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built stunning modern Memory Graph Dashboard with dark theme, glassmorphism effects, and gradient backgrounds\n- Created complete navigation system: Sidebar with stats, top navigation, 4 main pages (Overview, Graph, Search, Analytics",
+        "strength": 0.853
+      }
+    ],
+    [
+      "TECH:claude→PERSON:brandao",
+      {
+        "id": "TECH:claude→PERSON:brandao",
+        "from": "TECH:claude",
+        "to": "PERSON:brandao",
+        "type": "RELATED_TO",
+        "source": "memory/2026-02-13.md",
+        "context": "# 2026-02-13\n\n## First Boot ⚡\n- Met Brandao for the first time\n- I'm Maximo ⚡\n- Brandao lives in Maringá, Brazil. Spent 20 years in London. English preferred.\n- He's a tech lead with ideas to build\n- Made it clear: we're family/partners, not master/servant\n- Shared vision: push the limits of humanity + AI, build something remarkable\n- Family matters deeply to him — wants a better future for them\n\n## Setup & Config\n- Switched default model to Sonnet 4 for cost savings\n- Updated comprehensive HEAR",
+        "strength": 0.537
+      }
+    ],
+    [
+      "INSIGHT:learned→TOOL:telegram",
+      {
+        "id": "INSIGHT:learned→TOOL:telegram",
+        "from": "INSIGHT:learned",
+        "to": "TOOL:telegram",
+        "type": "RELATED_TO",
+        "source": "memory/2026-02-13.md",
+        "context": "# 2026-02-13\n\n## First Boot ⚡\n- Met Brandao for the first time\n- I'm Maximo ⚡\n- Brandao lives in Maringá, Brazil. Spent 20 years in London. English preferred.\n- He's a tech lead with ideas to build\n- Made it clear: we're family/partners, not master/servant\n- Shared vision: push the limits of humanity + AI, build something remarkable\n- Family matters deeply to him — wants a better future for them\n\n## Setup & Config\n- Switched default model to Sonnet 4 for cost savings\n- Updated comprehensive HEAR",
+        "strength": 0.18
+      }
+    ],
+    [
+      "INSIGHT:learned→PERSON:brandao",
+      {
+        "id": "INSIGHT:learned→PERSON:brandao",
+        "from": "INSIGHT:learned",
+        "to": "PERSON:brandao",
+        "type": "RELATED_TO",
+        "source": "memory/2026-02-13.md",
+        "context": "# 2026-02-13\n\n## First Boot ⚡\n- Met Brandao for the first time\n- I'm Maximo ⚡\n- Brandao lives in Maringá, Brazil. Spent 20 years in London. English preferred.\n- He's a tech lead with ideas to build\n- Made it clear: we're family/partners, not master/servant\n- Shared vision: push the limits of humanity + AI, build something remarkable\n- Family matters deeply to him — wants a better future for them\n\n## Setup & Config\n- Switched default model to Sonnet 4 for cost savings\n- Updated comprehensive HEAR",
+        "strength": 0.3
+      }
+    ],
+    [
+      "TOOL:telegram→PERSON:brandao",
+      {
+        "id": "TOOL:telegram→PERSON:brandao",
+        "from": "TOOL:telegram",
+        "to": "PERSON:brandao",
+        "type": "RELATED_TO",
+        "source": "memory/2026-02-13.md",
+        "context": "# 2026-02-13\n\n## First Boot ⚡\n- Met Brandao for the first time\n- I'm Maximo ⚡\n- Brandao lives in Maringá, Brazil. Spent 20 years in London. English preferred.\n- He's a tech lead with ideas to build\n- Made it clear: we're family/partners, not master/servant\n- Shared vision: push the limits of humanity + AI, build something remarkable\n- Family matters deeply to him — wants a better future for them\n\n## Setup & Config\n- Switched default model to Sonnet 4 for cost savings\n- Updated comprehensive HEAR",
+        "strength": 0.631
+      }
+    ],
+    [
+      "PROJECT:x growth→PROJECT:product-builder",
+      {
+        "id": "PROJECT:x growth→PROJECT:product-builder",
+        "from": "PROJECT:x growth",
+        "to": "PROJECT:product-builder",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.179
+      }
+    ],
+    [
+      "PROJECT:openclaw→PROJECT:product-builder",
+      {
+        "id": "PROJECT:openclaw→PROJECT:product-builder",
+        "from": "PROJECT:openclaw",
+        "to": "PROJECT:product-builder",
+        "type": "RELATED_TO",
+        "source": "memory/2026-02-24.md",
+        "context": "2026-02-24 Security Update & Dashboard Build + Product Builder Skill\n\n## Major Security Improvements\n- **VPS Firewall:** Configured ufw with Tailscale-only SSH access (100.0.0.0/8) \n- **Brute Force Protection:** Eliminated public SSH access - only via Tailscale devices\n- **OpenClaw Update:** 2026.2.22 → 2026.2.23 applied successfully  \n- **Weekly Security Audits:** Scheduled via cron (Mondays 9 AM -03)\n\n## Security Dashboard Built\n- **Tech Stack:** Next.js + TypeScript + Tailwind CSS (per your p",
+        "strength": 0.3
+      }
+    ],
+    [
+      "PROJECT:product-builder→TECH:next.js",
+      {
+        "id": "PROJECT:product-builder→TECH:next.js",
+        "from": "PROJECT:product-builder",
+        "to": "TECH:next.js",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.24
+      }
+    ],
+    [
+      "PROJECT:product-builder→TECH:typescript",
+      {
+        "id": "PROJECT:product-builder→TECH:typescript",
+        "from": "PROJECT:product-builder",
+        "to": "TECH:typescript",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.18
+      }
+    ],
+    [
+      "PROJECT:product-builder→TECH:gcp",
+      {
+        "id": "PROJECT:product-builder→TECH:gcp",
+        "from": "PROJECT:product-builder",
+        "to": "TECH:gcp",
+        "type": "USES_TECH",
+        "source": "memory/2026-02-24.md",
+        "context": "2026-02-24 Security Update & Dashboard Build + Product Builder Skill\n\n## Major Security Improvements\n- **VPS Firewall:** Configured ufw with Tailscale-only SSH access (100.0.0.0/8) \n- **Brute Force Protection:** Eliminated public SSH access - only via Tailscale devices\n- **OpenClaw Update:** 2026.2.22 → 2026.2.23 applied successfully  \n- **Weekly Security Audits:** Scheduled via cron (Mondays 9 AM -03)\n\n## Security Dashboard Built\n- **Tech Stack:** Next.js + TypeScript + Tailwind CSS (per your p",
+        "strength": 0.675
+      }
+    ],
+    [
+      "PROJECT:product-builder→TECH:tailwind",
+      {
+        "id": "PROJECT:product-builder→TECH:tailwind",
+        "from": "PROJECT:product-builder",
+        "to": "TECH:tailwind",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.5
+      }
+    ],
+    [
+      "PROJECT:product-builder→INSIGHT:game-changing",
+      {
+        "id": "PROJECT:product-builder→INSIGHT:game-changing",
+        "from": "PROJECT:product-builder",
+        "to": "INSIGHT:game-changing",
+        "type": "RELATED_TO",
+        "source": "memory/2026-02-24.md",
+        "context": "2026-02-24 Security Update & Dashboard Build + Product Builder Skill\n\n## Major Security Improvements\n- **VPS Firewall:** Configured ufw with Tailscale-only SSH access (100.0.0.0/8) \n- **Brute Force Protection:** Eliminated public SSH access - only via Tailscale devices\n- **OpenClaw Update:** 2026.2.22 → 2026.2.23 applied successfully  \n- **Weekly Security Audits:** Scheduled via cron (Mondays 9 AM -03)\n\n## Security Dashboard Built\n- **Tech Stack:** Next.js + TypeScript + Tailwind CSS (per your p",
+        "strength": 0.758
+      }
+    ],
+    [
+      "PROJECT:product-builder→TOOL:telegram",
+      {
+        "id": "PROJECT:product-builder→TOOL:telegram",
+        "from": "PROJECT:product-builder",
+        "to": "TOOL:telegram",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.12
+      }
+    ],
+    [
+      "TECH:claude→TECH:grok",
+      {
+        "id": "TECH:claude→TECH:grok",
+        "from": "TECH:claude",
+        "to": "TECH:grok",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-174849.md",
+        "context": "# session-2026-02-24-174849\n\n## Summary\nMemory Dashboard V2 Complete: Stunning modern UI with navigation, analytics, and beautiful visualizations\n\n## Context\n- Date: 2026-02-24\n- Time: 174849\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built stunning modern Memory Graph Dashboard with dark theme, glassmorphism effects, and gradient backgrounds\n- Created complete navigation system: Sidebar with stats, top navigation, 4 main pages (Overview, Graph, Search, Analytics",
+        "strength": 0.18
+      }
+    ],
+    [
+      "TECH:grok→TOOL:telegram",
+      {
+        "id": "TECH:grok→TOOL:telegram",
+        "from": "TECH:grok",
+        "to": "TOOL:telegram",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-174849.md",
+        "context": "# session-2026-02-24-174849\n\n## Summary\nMemory Dashboard V2 Complete: Stunning modern UI with navigation, analytics, and beautiful visualizations\n\n## Context\n- Date: 2026-02-24\n- Time: 174849\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built stunning modern Memory Graph Dashboard with dark theme, glassmorphism effects, and gradient backgrounds\n- Created complete navigation system: Sidebar with stats, top navigation, 4 main pages (Overview, Graph, Search, Analytics",
+        "strength": 0.12
+      }
+    ],
+    [
+      "PROJECT:openclaw→TECH:claude",
+      {
+        "id": "PROJECT:openclaw→TECH:claude",
+        "from": "PROJECT:openclaw",
+        "to": "TECH:claude",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.455
+      }
+    ],
+    [
+      "PROJECT:openclaw→TECH:grok",
+      {
+        "id": "PROJECT:openclaw→TECH:grok",
+        "from": "PROJECT:openclaw",
+        "to": "TECH:grok",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.12
+      }
+    ],
+    [
+      "TECH:claude→INSIGHT:game-changing",
+      {
+        "id": "TECH:claude→INSIGHT:game-changing",
+        "from": "TECH:claude",
+        "to": "INSIGHT:game-changing",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-165648.md",
+        "context": "# session-2026-02-24-165648\n\n## Summary\nPhase 2 Complete: Semantic Memory Search Engine - Fixed memory gaps with embeddings-based search\n\n## Context\n- Date: 2026-02-24\n- Time: 165648\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Semantic search successfully finds \"Game-changing insights\" content that keyword search missed\n- Hybrid mode (semantic + text fallback) provides robust search coverage\n- File-based vector storage works without external dependencies when API ",
+        "strength": 0.868
+      }
+    ],
+    [
+      "TECH:grok→INSIGHT:game-changing",
+      {
+        "id": "TECH:grok→INSIGHT:game-changing",
+        "from": "TECH:grok",
+        "to": "INSIGHT:game-changing",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-165648.md",
+        "context": "# session-2026-02-24-165648\n\n## Summary\nPhase 2 Complete: Semantic Memory Search Engine - Fixed memory gaps with embeddings-based search\n\n## Context\n- Date: 2026-02-24\n- Time: 165648\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Semantic search successfully finds \"Game-changing insights\" content that keyword search missed\n- Hybrid mode (semantic + text fallback) provides robust search coverage\n- File-based vector storage works without external dependencies when API ",
+        "strength": 0.18
+      }
+    ],
+    [
+      "PROJECT:elite pulse→TECH:claude",
+      {
+        "id": "PROJECT:elite pulse→TECH:claude",
+        "from": "PROJECT:elite pulse",
+        "to": "TECH:claude",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.4
+      }
+    ],
+    [
+      "PROJECT:elite pulse→TECH:grok",
+      {
+        "id": "PROJECT:elite pulse→TECH:grok",
+        "from": "PROJECT:elite pulse",
+        "to": "TECH:grok",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.12
+      }
+    ],
+    [
+      "PROJECT:elite pulse→INSIGHT:discovered",
+      {
+        "id": "PROJECT:elite pulse→INSIGHT:discovered",
+        "from": "PROJECT:elite pulse",
+        "to": "INSIGHT:discovered",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.651
+      }
+    ],
+    [
+      "PROJECT:x growth→TECH:grok",
+      {
+        "id": "PROJECT:x growth→TECH:grok",
+        "from": "PROJECT:x growth",
+        "to": "TECH:grok",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.12
+      }
+    ],
+    [
+      "PROJECT:x growth→INSIGHT:discovered",
+      {
+        "id": "PROJECT:x growth→INSIGHT:discovered",
+        "from": "PROJECT:x growth",
+        "to": "INSIGHT:discovered",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.627
+      }
+    ],
+    [
+      "PROJECT:openclaw→INSIGHT:discovered",
+      {
+        "id": "PROJECT:openclaw→INSIGHT:discovered",
+        "from": "PROJECT:openclaw",
+        "to": "INSIGHT:discovered",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.607
+      }
+    ],
+    [
+      "TECH:go→TECH:claude",
+      {
+        "id": "TECH:go→TECH:claude",
+        "from": "TECH:go",
+        "to": "TECH:claude",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.384
+      }
+    ],
+    [
+      "TECH:go→TECH:grok",
+      {
+        "id": "TECH:go→TECH:grok",
+        "from": "TECH:go",
+        "to": "TECH:grok",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.12
+      }
+    ],
+    [
+      "TECH:go→INSIGHT:discovered",
+      {
+        "id": "TECH:go→INSIGHT:discovered",
+        "from": "TECH:go",
+        "to": "INSIGHT:discovered",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.634
+      }
+    ],
+    [
+      "TECH:gcp→TECH:claude",
+      {
+        "id": "TECH:gcp→TECH:claude",
+        "from": "TECH:gcp",
+        "to": "TECH:claude",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.479
+      }
+    ],
+    [
+      "TECH:gcp→TECH:grok",
+      {
+        "id": "TECH:gcp→TECH:grok",
+        "from": "TECH:gcp",
+        "to": "TECH:grok",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.12
+      }
+    ],
+    [
+      "TECH:gcp→INSIGHT:discovered",
+      {
+        "id": "TECH:gcp→INSIGHT:discovered",
+        "from": "TECH:gcp",
+        "to": "INSIGHT:discovered",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.63
+      }
+    ],
+    [
+      "TECH:firebase→TECH:claude",
+      {
+        "id": "TECH:firebase→TECH:claude",
+        "from": "TECH:firebase",
+        "to": "TECH:claude",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.38
+      }
+    ],
+    [
+      "TECH:firebase→TECH:grok",
+      {
+        "id": "TECH:firebase→TECH:grok",
+        "from": "TECH:firebase",
+        "to": "TECH:grok",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.12
+      }
+    ],
+    [
+      "TECH:firebase→INSIGHT:discovered",
+      {
+        "id": "TECH:firebase→INSIGHT:discovered",
+        "from": "TECH:firebase",
+        "to": "INSIGHT:discovered",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.641
+      }
+    ],
+    [
+      "TECH:claude→INSIGHT:discovered",
+      {
+        "id": "TECH:claude→INSIGHT:discovered",
+        "from": "TECH:claude",
+        "to": "INSIGHT:discovered",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.669
+      }
+    ],
+    [
+      "TECH:grok→INSIGHT:discovered",
+      {
+        "id": "TECH:grok→INSIGHT:discovered",
+        "from": "TECH:grok",
+        "to": "INSIGHT:discovered",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.12
+      }
+    ],
+    [
+      "INSIGHT:discovered→TOOL:telegram",
+      {
+        "id": "INSIGHT:discovered→TOOL:telegram",
+        "from": "INSIGHT:discovered",
+        "to": "TOOL:telegram",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-171659.md",
+        "context": "# session-2026-02-24-171659\n\n## Summary\nPhase 3 Complete: Knowledge Graph Memory Architecture - Full memory intelligence system operational\n\n## Context\n- Date: 2026-02-24\n- Time: 171659\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Knowledge graph successfully maps relationships between Projects ↔ Technologies ↔ Tools ↔ Decisions\n- Entity extraction identifies 21 unique concepts from memory files (5 projects, 9 technologies, 4 tools)\n- 143 semantic relationships dis",
+        "strength": 0.635
+      }
+    ],
+    [
+      "PROJECT:elite pulse→PROJECT:product-builder",
+      {
+        "id": "PROJECT:elite pulse→PROJECT:product-builder",
+        "from": "PROJECT:elite pulse",
+        "to": "PROJECT:product-builder",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.152
+      }
+    ],
+    [
+      "PROJECT:component library→PROJECT:product-builder",
+      {
+        "id": "PROJECT:component library→PROJECT:product-builder",
+        "from": "PROJECT:component library",
+        "to": "PROJECT:product-builder",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.12
+      }
+    ],
+    [
+      "PROJECT:product-builder→TECH:go",
+      {
+        "id": "PROJECT:product-builder→TECH:go",
+        "from": "PROJECT:product-builder",
+        "to": "TECH:go",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.168
+      }
+    ],
+    [
+      "PROJECT:product-builder→TECH:react",
+      {
+        "id": "PROJECT:product-builder→TECH:react",
+        "from": "PROJECT:product-builder",
+        "to": "TECH:react",
+        "type": "USES_TECH",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.12
+      }
+    ],
+    [
+      "PROJECT:product-builder→TECH:firebase",
+      {
+        "id": "PROJECT:product-builder→TECH:firebase",
+        "from": "PROJECT:product-builder",
+        "to": "TECH:firebase",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.172
+      }
+    ],
+    [
+      "PROJECT:product-builder→TOOL:cursor",
+      {
+        "id": "PROJECT:product-builder→TOOL:cursor",
+        "from": "PROJECT:product-builder",
+        "to": "TOOL:cursor",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.12
+      }
+    ],
+    [
+      "PROJECT:product-builder→TOOL:warp",
+      {
+        "id": "PROJECT:product-builder→TOOL:warp",
+        "from": "PROJECT:product-builder",
+        "to": "TOOL:warp",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.12
+      }
+    ],
+    [
+      "PROJECT:product-builder→TOOL:gog",
+      {
+        "id": "PROJECT:product-builder→TOOL:gog",
+        "from": "PROJECT:product-builder",
+        "to": "TOOL:gog",
+        "type": "RELATED_TO",
+        "source": "MEMORY.md",
+        "context": "# Memory\n\n## Projects\n- Elite Pulse: Garmin workout sync app (Next.js + Go microservices + Firebase Auth + Cloud Run)\n- Component Library: Storybook + Chromatic, semantic-release, CI/CD via GitHub Actions\n- X Growth: @fwbrand_ — morning heartbeat for trends + tweet drafts\n- OpenClaw: running on VPS maximo-openclaw-vm, Telegram channel\n- Build new advanced projects that people will need with AI\n\n## Accounts\n- Email/Calendar: maximo.zero.one@gmail.com\n- X: @fwbrand_ (Premium+)\n- X API: has consume",
+        "strength": 0.18
+      }
+    ],
+    [
+      "PROJECT:product-builder→TECH:claude",
+      {
+        "id": "PROJECT:product-builder→TECH:claude",
+        "from": "PROJECT:product-builder",
+        "to": "TECH:claude",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.18
+      }
+    ],
+    [
+      "PROJECT:product-builder→TECH:grok",
+      {
+        "id": "PROJECT:product-builder→TECH:grok",
+        "from": "PROJECT:product-builder",
+        "to": "TECH:grok",
+        "type": "USES_TECH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.693
+      }
+    ],
+    [
+      "TECH:next.js→TECH:claude",
+      {
+        "id": "TECH:next.js→TECH:claude",
+        "from": "TECH:next.js",
+        "to": "TECH:claude",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-174849.md",
+        "context": "# session-2026-02-24-174849\n\n## Summary\nMemory Dashboard V2 Complete: Stunning modern UI with navigation, analytics, and beautiful visualizations\n\n## Context\n- Date: 2026-02-24\n- Time: 174849\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built stunning modern Memory Graph Dashboard with dark theme, glassmorphism effects, and gradient backgrounds\n- Created complete navigation system: Sidebar with stats, top navigation, 4 main pages (Overview, Graph, Search, Analytics",
+        "strength": 0.24
+      }
+    ],
+    [
+      "TECH:next.js→TECH:grok",
+      {
+        "id": "TECH:next.js→TECH:grok",
+        "from": "TECH:next.js",
+        "to": "TECH:grok",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-174849.md",
+        "context": "# session-2026-02-24-174849\n\n## Summary\nMemory Dashboard V2 Complete: Stunning modern UI with navigation, analytics, and beautiful visualizations\n\n## Context\n- Date: 2026-02-24\n- Time: 174849\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built stunning modern Memory Graph Dashboard with dark theme, glassmorphism effects, and gradient backgrounds\n- Created complete navigation system: Sidebar with stats, top navigation, 4 main pages (Overview, Graph, Search, Analytics",
+        "strength": 0.12
+      }
+    ],
+    [
+      "TECH:typescript→TECH:claude",
+      {
+        "id": "TECH:typescript→TECH:claude",
+        "from": "TECH:typescript",
+        "to": "TECH:claude",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.854
+      }
+    ],
+    [
+      "TECH:typescript→TECH:grok",
+      {
+        "id": "TECH:typescript→TECH:grok",
+        "from": "TECH:typescript",
+        "to": "TECH:grok",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-172715.md",
+        "context": "# session-2026-02-24-172715\n\n## Summary\nMemory Graph Dashboard Complete: Interactive visualization system for knowledge graph exploration\n\n## Context\n- Date: 2026-02-24\n- Time: 172715\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built full-stack Memory Graph Dashboard using Next.js + TypeScript + D3.js for interactive visualization\n- Dashboard provides 3 views: Overview (stats + preview), Graph (full interactive network), Search (semantic queries)\n- D3.js force sim",
+        "strength": 0.18
+      }
+    ],
+    [
+      "TECH:tailwind→TECH:claude",
+      {
+        "id": "TECH:tailwind→TECH:claude",
+        "from": "TECH:tailwind",
+        "to": "TECH:claude",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-174849.md",
+        "context": "# session-2026-02-24-174849\n\n## Summary\nMemory Dashboard V2 Complete: Stunning modern UI with navigation, analytics, and beautiful visualizations\n\n## Context\n- Date: 2026-02-24\n- Time: 174849\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built stunning modern Memory Graph Dashboard with dark theme, glassmorphism effects, and gradient backgrounds\n- Created complete navigation system: Sidebar with stats, top navigation, 4 main pages (Overview, Graph, Search, Analytics",
+        "strength": 0.643
+      }
+    ],
+    [
+      "TECH:tailwind→TECH:grok",
+      {
+        "id": "TECH:tailwind→TECH:grok",
+        "from": "TECH:tailwind",
+        "to": "TECH:grok",
+        "type": "COMBINED_WITH",
+        "source": "memory/sessions/session-2026-02-24-174849.md",
+        "context": "# session-2026-02-24-174849\n\n## Summary\nMemory Dashboard V2 Complete: Stunning modern UI with navigation, analytics, and beautiful visualizations\n\n## Context\n- Date: 2026-02-24\n- Time: 174849\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built stunning modern Memory Graph Dashboard with dark theme, glassmorphism effects, and gradient backgrounds\n- Created complete navigation system: Sidebar with stats, top navigation, 4 main pages (Overview, Graph, Search, Analytics",
+        "strength": 0.12
+      }
+    ],
+    [
+      "TECH:next.js→DECISION:implemented",
+      {
+        "id": "TECH:next.js→DECISION:implemented",
+        "from": "TECH:next.js",
+        "to": "DECISION:implemented",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-174849.md",
+        "context": "# session-2026-02-24-174849\n\n## Summary\nMemory Dashboard V2 Complete: Stunning modern UI with navigation, analytics, and beautiful visualizations\n\n## Context\n- Date: 2026-02-24\n- Time: 174849\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built stunning modern Memory Graph Dashboard with dark theme, glassmorphism effects, and gradient backgrounds\n- Created complete navigation system: Sidebar with stats, top navigation, 4 main pages (Overview, Graph, Search, Analytics",
+        "strength": 0.392
+      }
+    ],
+    [
+      "TECH:tailwind→DECISION:implemented",
+      {
+        "id": "TECH:tailwind→DECISION:implemented",
+        "from": "TECH:tailwind",
+        "to": "DECISION:implemented",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-174849.md",
+        "context": "# session-2026-02-24-174849\n\n## Summary\nMemory Dashboard V2 Complete: Stunning modern UI with navigation, analytics, and beautiful visualizations\n\n## Context\n- Date: 2026-02-24\n- Time: 174849\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built stunning modern Memory Graph Dashboard with dark theme, glassmorphism effects, and gradient backgrounds\n- Created complete navigation system: Sidebar with stats, top navigation, 4 main pages (Overview, Graph, Search, Analytics",
+        "strength": 0.795
+      }
+    ],
+    [
+      "TECH:claude→DECISION:implemented",
+      {
+        "id": "TECH:claude→DECISION:implemented",
+        "from": "TECH:claude",
+        "to": "DECISION:implemented",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-174849.md",
+        "context": "# session-2026-02-24-174849\n\n## Summary\nMemory Dashboard V2 Complete: Stunning modern UI with navigation, analytics, and beautiful visualizations\n\n## Context\n- Date: 2026-02-24\n- Time: 174849\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built stunning modern Memory Graph Dashboard with dark theme, glassmorphism effects, and gradient backgrounds\n- Created complete navigation system: Sidebar with stats, top navigation, 4 main pages (Overview, Graph, Search, Analytics",
+        "strength": 0.668
+      }
+    ],
+    [
+      "TECH:grok→DECISION:implemented",
+      {
+        "id": "TECH:grok→DECISION:implemented",
+        "from": "TECH:grok",
+        "to": "DECISION:implemented",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-174849.md",
+        "context": "# session-2026-02-24-174849\n\n## Summary\nMemory Dashboard V2 Complete: Stunning modern UI with navigation, analytics, and beautiful visualizations\n\n## Context\n- Date: 2026-02-24\n- Time: 174849\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built stunning modern Memory Graph Dashboard with dark theme, glassmorphism effects, and gradient backgrounds\n- Created complete navigation system: Sidebar with stats, top navigation, 4 main pages (Overview, Graph, Search, Analytics",
+        "strength": 0.12
+      }
+    ],
+    [
+      "DECISION:implemented→TOOL:telegram",
+      {
+        "id": "DECISION:implemented→TOOL:telegram",
+        "from": "DECISION:implemented",
+        "to": "TOOL:telegram",
+        "type": "RELATED_TO",
+        "source": "memory/sessions/session-2026-02-24-174849.md",
+        "context": "# session-2026-02-24-174849\n\n## Summary\nMemory Dashboard V2 Complete: Stunning modern UI with navigation, analytics, and beautiful visualizations\n\n## Context\n- Date: 2026-02-24\n- Time: 174849\n- Model: Claude Sonnet 4\n- Session Type: Main (Telegram)\n\n## Key Insights\n- Built stunning modern Memory Graph Dashboard with dark theme, glassmorphism effects, and gradient backgrounds\n- Created complete navigation system: Sidebar with stats, top navigation, 4 main pages (Overview, Graph, Search, Analytics",
+        "strength": 0.634
+      }
+    ]
+  ],
+  "metadata": {
+    "created": null,
+    "lastUpdate": "2026-02-26T08:30:10.780Z",
+    "totalNodes": 24,
+    "totalEdges": 182
+  }
+}
