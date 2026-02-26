@@ -45,7 +45,7 @@ export function GraphPreview() {
     svg.selectAll('*').remove()
 
     const simulation = d3.forceSimulation(nodes)
-      .force('link', d3.forceLink(links).id(d => d.id).distance(80).strength(0.5))
+      .force('link', d3.forceLink(links).id((d) => (d as SimNode).id).distance(80).strength(0.5))
       .force('charge', d3.forceManyBody().strength(-150))
       .force('center', d3.forceCenter(width / 2, height / 2))
 
@@ -61,7 +61,7 @@ export function GraphPreview() {
       .selectAll('g')
       .data(nodes)
       .join('g')
-      .call(d3.drag()
+      .call(d3.drag() as any)
         .on('start', dragstarted)
         .on('drag', dragged)
         .on('end', dragended))
