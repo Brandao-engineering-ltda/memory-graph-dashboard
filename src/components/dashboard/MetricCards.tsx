@@ -8,7 +8,7 @@ interface MetricCardProps {
   title: string
   value: string
   change?: string
-  changeType?: 'positive' | 'negative' | 'neutral'
+  changeType?: string
   icon: React.ComponentType<{ className?: string }>
   gradient: string
 }
@@ -85,7 +85,7 @@ export function MetricCards() {
       title: 'Projects',
       value: projects.toString(),
       change: 'Live count',
-      changeType: 'neutral' as const,
+      changeType: 'neutral',
       icon: Layers,
       gradient: 'bg-gradient-to-br from-purple-500 to-violet-600'
     },
@@ -93,7 +93,7 @@ export function MetricCards() {
       title: 'Technologies',
       value: tech.toString(),
       change: 'Live count',
-      changeType: 'neutral' as const,
+      changeType: 'neutral',
       icon: Database,
       gradient: 'bg-gradient-to-br from-orange-500 to-red-600'
     }

@@ -1,3 +1,6 @@
+'use client'
+
+import { useGraphData } from '@/hooks/useGraphData'
 import { MemoryOverview } from '@/components/analytics/MemoryOverview'
 import { GraphPreview } from '@/components/graph/GraphPreview'
 import { QuickSearch } from '@/components/search/QuickSearch'
@@ -5,12 +8,8 @@ import { RecentActivity } from '@/components/dashboard/RecentActivity'
 import { InsightCards } from '@/components/dashboard/InsightCards'
 import { MetricCards } from '@/components/dashboard/MetricCards'
 
-'use client'
-
-import { useGraphData } from '@/hooks/useGraphData'
-
 export default function Dashboard() {
-  useGraphData() // Auto-loads graph into store
+  useGraphData() // Triggers store load
   return (
     <div className="h-full overflow-auto">
       <div className="p-8">
@@ -49,13 +48,10 @@ export default function Dashboard() {
 
           {/* Search & Quick Actions */}
           <div className="lg:col-span-4 space-y-6">
-            {/* Quick Search */}
             <div className="bg-white/5 backdrop-blur-xl rounded-xl border border-white/10 p-6">
               <h3 className="text-lg font-semibold text-white mb-4">Semantic Search</h3>
               <QuickSearch />
             </div>
-
-            {/* System Health */}
             <div className="bg-white/5 backdrop-blur-xl rounded-xl border border-white/10 p-6">
               <h3 className="text-lg font-semibold text-white mb-4">System Health</h3>
               <MemoryOverview />
@@ -65,7 +61,6 @@ export default function Dashboard() {
 
         {/* Insights & Activity */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-          {/* AI Insights */}
           <div className="bg-white/5 backdrop-blur-xl rounded-xl border border-white/10 p-6">
             <h3 className="text-lg font-semibold text-white mb-4 flex items-center gap-2">
               <span className="h-2 w-2 bg-indigo-400 rounded-full animate-pulse" />
@@ -73,8 +68,6 @@ export default function Dashboard() {
             </h3>
             <InsightCards />
           </div>
-
-          {/* Recent Activity */}
           <div className="bg-white/5 backdrop-blur-xl rounded-xl border border-white/10 p-6">
             <h3 className="text-lg font-semibold text-white mb-4">Recent Activity</h3>
             <RecentActivity />
@@ -85,15 +78,15 @@ export default function Dashboard() {
         <div className="mt-8 grid grid-cols-1 md:grid-cols-3 gap-4">
           <div className="bg-gradient-to-br from-blue-500/10 to-blue-600/5 border border-blue-500/20 rounded-lg p-4 cursor-pointer hover:from-blue-500/20 hover:to-blue-600/10 transition-all duration-300">
             <h4 className="font-semibold text-blue-300 mb-2">Explore Graph</h4>
-            <p className="text-sm text-slate-400">Interactive network visualization — drag to explore connections</p>
+            <p className="text-sm text-slate-400">Interactive network visualization — drag to explore</p>
           </div>
           <div className="bg-gradient-to-br from-green-500/10 to-green-600/5 border border-green-500/20 rounded-lg p-4 cursor-pointer hover:from-green-500/20 hover:to-green-600/10 transition-all duration-300">
             <h4 className="font-semibold text-green-300 mb-2">Search Memory</h4>
-            <p className="text-sm text-slate-400">Semantic search across your entire knowledge base with AI understanding</p>
+            <p className="text-sm text-slate-400">Semantic search across your entire knowledge base</p>
           </div>
           <div className="bg-gradient-to-br from-purple-500/10 to-purple-600/5 border border-purple-500/20 rounded-lg p-4 cursor-pointer hover:from-purple-500/20 hover:to-purple-600/10 transition-all duration-300">
             <h4 className="font-semibold text-purple-300 mb-2">View Analytics</h4>
-            <p className="text-sm text-slate-400">Deep insights into memory patterns, relationships, and growth trends</p>
+            <p className="text-sm text-slate-400">Deep insights into memory patterns and growth</p>
           </div>
         </div>
       </div>
