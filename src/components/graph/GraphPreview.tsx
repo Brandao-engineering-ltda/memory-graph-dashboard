@@ -64,7 +64,7 @@ export function GraphPreview() {
       .call(d3.drag() as any)
         .on('start', dragstarted)
         .on('drag', dragged)
-        .on('end', dragended))
+        .on('end', dragended);
 
     const circles = node.append('circle')
       .attr('r', 8)
@@ -82,27 +82,27 @@ export function GraphPreview() {
 
     simulation.on('tick', () => {
       link
-        .attr('x1', d => d.source.x)
-        .attr('y1', d => d.source.y)
-        .attr('x2', d => d.target.x)
-        .attr('y2', d => d.target.y)
+        .attr('x1', d => (d.source as unknown as SimNode).x ?? 0)
+        .attr('y1', d => (d.source as unknown as SimNode).y ?? 0)
+        .attr('x2', d => (d.target as unknown as SimNode).x ?? 0)
+        .attr('y2', d => (d.target as unknown as SimNode).y ?? 0)
 
       node
         .attr('transform', d => `translate(${d.x},${d.y})`)
     })
 
-    function dragstarted(event) {
+    function dragstarted(event: any) {
       if (!event.active) simulation.alphaTarget(0.3).restart()
       event.subject.fx = event.subject.x
       event.subject.fy = event.subject.y
     }
 
-    function dragged(event) {
+    function dragged(event: any) {
       event.subject.fx = event.x
       event.subject.fy = event.y
     }
 
-    function dragended(event) {
+    function dragended(event: any) {
       if (!event.active) simulation.alphaTarget(0)
       event.subject.fx = null
       event.subject.fy = null
