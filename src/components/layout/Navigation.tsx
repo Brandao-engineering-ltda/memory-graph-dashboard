@@ -1,5 +1,6 @@
 'use client'
 
+import Link from 'next/link'
 import { useState } from 'react'
 import { Brain, Search, Activity, Settings, Menu, X } from 'lucide-react'
 import { Button } from '@/components/ui/button'
@@ -10,21 +11,21 @@ export function Navigation() {
   return (
     <nav className="h-16 border-b border-white/10 bg-slate-900/50 backdrop-blur-xl supports-[backdrop-filter]:bg-slate-900/50">
       <div className="flex h-full items-center justify-between px-6">
-        {/* Logo & Brand */}
-        <div className="flex items-center gap-4">
+        {/* Logo & Brand - Clickable */}
+        <Link href="/" className="flex items-center gap-4 p-2 -m-2 rounded-lg hover:bg-white/5 transition-all group cursor-pointer">
           <div className="flex items-center gap-3">
-            <div className="relative">
-              <Brain className="h-8 w-8 text-indigo-400" />
-              <div className="absolute -inset-1 bg-indigo-400/20 blur-lg rounded-full" />
+            <div className="relative group-hover:scale-110 transition-transform">
+              <Brain className="h-8 w-8 text-indigo-400 group-hover:text-indigo-300 transition-colors" />
+              <div className="absolute -inset-1 bg-indigo-400/20 blur-lg rounded-full opacity-0 group-hover:opacity-100 transition-opacity" />
             </div>
             <div>
-              <h1 className="text-xl font-bold bg-gradient-to-r from-white to-slate-300 bg-clip-text text-transparent">
+              <h1 className="text-xl font-bold bg-gradient-to-r from-white to-slate-300 bg-clip-text text-transparent group-hover:from-indigo-50 group-hover:to-indigo-200">
                 Memory Graph
               </h1>
-              <p className="text-xs text-slate-400">Intelligent Architecture</p>
+              <p className="text-xs text-slate-400 group-hover:text-slate-300">Intelligent Architecture</p>
             </div>
           </div>
-        </div>
+        </Link>
 
         {/* Quick Actions - Desktop */}
         <div className="hidden md:flex items-center gap-3">
