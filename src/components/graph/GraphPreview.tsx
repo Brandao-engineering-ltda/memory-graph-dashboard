@@ -3,7 +3,14 @@
 import { useEffect, useRef } from 'react'
 import * as d3 from 'd3'
 
-const nodes = [
+interface SimNode extends d3.SimulationNodeDatum {
+  id: string;
+  name: string;
+  group: string;
+  color: string;
+}
+
+const nodes: SimNode[] = [
   { id: '1', name: 'Elite Pulse', group: 'PROJECT', color: '#4F46E5' },
   { id: '2', name: 'Next.js', group: 'TECH', color: '#10B981' },
   { id: '3', name: 'TypeScript', group: 'TECH', color: '#10B981' },
@@ -12,7 +19,7 @@ const nodes = [
   { id: '6', name: 'X Growth', group: 'PROJECT', color: '#4F46E5' },
   { id: '7', name: 'OpenClaw', group: 'PROJECT', color: '#4F46E5' },
   { id: '8', name: 'Cursor', group: 'TOOL', color: '#8B5CF6' },
-]
+];
 
 const links = [
   { source: '1', target: '2', value: 1 },
